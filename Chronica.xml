@@ -25,7 +25,7 @@
                eius</persName> regnauit annis <date dur="P11Y3M">XI ac III mensibus</date>.</hi></head>
             <p n="1"><date>Era DCCVI</date> <persName>Aurelius consobrinus eíus</persName> . regnauit annis VI et
                mensibos VI.</p>
-            <p n="2"><date>Era DCCCXII</date> <persName>Silo</persName> . regnauit annis IX et decimo uitam
+            <p n="2"><date>Era DCCCXII</date> <persName>Silo</persName> . regnauit annis <date dur="P9Y10M">IX et decimo</date> uitam
                finíuit.</p>
             <p n="3"><date>Era DCCXXI</date> <persName>Mauregatus</persName> regnauit annis VI uitamque
                finiuit.</p>
