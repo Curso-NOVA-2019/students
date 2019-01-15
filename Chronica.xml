@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+
+            <head type="title"> <date when="0738">Era dcclxxvI.</date> <persName>Adefonsus fílíus Petri</persName> ducis
+               regnis annis <date dur="P19Y"> XIX.</date> </head>
+            <head type="subtitles"><hi rend="bold"><date when="0747">Era dcclxxxv</date> <persName>Froyla filius
+               eius</persName> regnauit annis <date dur="P11Y3M">XI ac III mensibus</date>.</hi></head>
+
+            <p n="1"><date>Era DCCVI</date> <persName>Aurelius consobrinus eíus</persName> . regnauit annis VI et
+               mensibos VI.</p>
+
+            <p n="2"><date>Era DCCCXII</date> <persName>Silo</persName> . regnauit annis IX et decimo uitam
+               finíuit.</p>
+
+            <p n="3"><date>Era DCCXXI</date> <persName>Mauregatus</persName> regnauit annis VI uitamque
+               finiuit.</p>
+
+            <p n="4"><date>Era DCCCXXVI</date> . <persName>Bermudus</persName> regnauit annis III hic sponte
+               regnum dimisit et sobrinum suum <persName>adefonsum</persName> quem <persName>Mauregatus</persName> a regno expulerat, Regem
+               fecit.</p>
+
+            <p n="5"><date>Era dcccxxviiI</date> a <persName>Adefonsus</persName> iste regnauit annis LII.</p>
+
+            <p n="6"><date>Era DCCCLXXX</date> <persName>Ramirus filius Veremundi</persName> regnauit annis VII.</p>
+
+            <p><q/></p>
+         </div>
+      </body>
+   </text>
+</TEI>
