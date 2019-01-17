@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
@@ -22,7 +22,13 @@
             Livro de Noa 
             [ANTT Mosteiro de Santa Cruz de Coimbra , liv. 99, fol.2-9v]
             vide chronicom conimbricense part. 1, nº 6
-            [fol. 2] In era . cccª. xª. viiij. Egressi sunt goti de terra sua .
+            
+            
+            
+            <pb n="2r"/>
+            <lb n="1"/>In era . cccª. xª. viiij. Egressi sunt goti de terra
+            <lb n="2"/>sua .
+             
             Era . cccª. LXª. VIª. Ingressi in ispaniam . et dominati sunt eam annis. ccctis . lxxxª . iijbus . Et de terra sua preuenerunt in ispaniam per annos decem septem .
             Antequam donnus pelagius regnaret . sarreceni regnaurunt  in ispaniam anni .ve.
             Donnus pelagius regnauit . annos xª . viiijem.
