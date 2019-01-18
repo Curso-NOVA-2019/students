@@ -3,10 +3,12 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Title</title>
+            <title>Livro de Noa 
+               [ANTT Mosteiro de Santa Cruz de Coimbra , liv. 99, fol.2-9v]
+               vide chronicom conimbricense part. 1, nº 6</title>
          </titleStmt>
          <publicationStmt>
             <p>Publication Information</p>
@@ -15,24 +17,18 @@
             <p>Information about the source</p>
          </sourceDesc>
       </fileDesc>
-  </teiHeader>
-  <text>
-      <body>
-         <p>
-            Livro de Noa 
-            [ANTT Mosteiro de Santa Cruz de Coimbra , liv. 99, fol.2-9v]
-            vide chronicom conimbricense part. 1, nº 6
-            
-            
-            
-            <pb n="2r"/>
-            <lb n="1"/>In era . cccª. xª. viiij. Egressi sunt goti de terra
-            <lb n="2"/>sua .
-             
-            Era . cccª. LXª. VIª. Ingressi in ispaniam . et dominati sunt eam annis. ccctis . lxxxª . iijbus . Et de terra sua preuenerunt in ispaniam per annos decem septem .
-            Antequam donnus pelagius regnaret . sarreceni regnaurunt  in ispaniam anni .ve.
-            Donnus pelagius regnauit . annos xª . viiijem.
-            In era . mª . xxª . vª . accepit almanzur colimbriam . iiijto . kalendas iulij .
+   </teiHeader>
+   <text>
+      <body xml:space="preserve">
+         <pb n="2r"/>
+            <lb n="1"/><ab n="319"><hi rend="rubric">I</hi>n era <rs type="date" n="319">.cccª.xª.viiij.</rs> Egressi sunt goti de terra
+            <lb n="2"/>sua .</ab><ab n="366">Era <rs type="date" n="366">.cccª.LXª.VIª.</rs> Ingressi in s
+            <lb n="3"/>paniam . et dominati sunt eam annis .ccctis.
+            <lb n="4"/>lxxxª . iijbus . Et de terra sua preuenerunt in span
+            <lb n="5"/>iam per annos decem septem . Antequam 
+            <lb n="6"/>donnus pelagius regnaret . sarreceni regnaurunt  in ispaniam anni .ve.
+                  Donnus pelagius regnauit . annos xª . viiijem.</ab>
+         <p>In era . mª . xxª . vª . accepit almanzur colimbriam . iiijto . kalendas iulij .
             In era . mª . xxª . viijª . Accepit almanzur montem maiorem.
             In era . mª Lxª . vª . Fure presa ciuitas lamecos . iijº . kalendas decembris . In die sancti saturnim . premanus fernandi regis .
             In era . mª . Lxª. vi . presa fuit ciuitas uiseu . viijto . kalendas augusti ./ [fol. 2v] In die sancti cucufatj premanus fernandi regis .
@@ -96,5 +92,5 @@
             Era Mª. ccª.xxxª. vijª. fram fuerunt signa qualia numque fuertum a possione dom usque ad supradictam eram fuit enim in terra. vjª. et viiij. uire nox. et/ sol sanctes fuit ingrior pice et luna ac plerasida in celo aparuerunt diem recedente nocte illa tenevre subsecutt fuerunt quibus recedentibus et  recuporante sole uim claritatis sue congregata in eccelesia sancte crucis colimbrie maxima inlatitudine hominum et in laierum tam sclaranim pro religiosorum cum ominis unammit primmio timorem nom aliud quod mortem subitam expectantes clamarent et ulularent ac diuinum subsidium inplorarent . quibusdam exfribus te deum laudamus et letamam cum difficultate maxima canentibus et diuina exorantibus pretatem. semiuinis et stupefactis alijs onibus/
             [fol. 9v] maictibus ac roe amirantibus umnersis in choro sancte crucis colimbrie . uijem signa lunarum apparuerunt quartarum existen trym uler quintarum . que signa ibi annus neque postea sunt insoecta . huiusmodi autem lunarum signa per totam colimbrie ciintra tem apparunsse multis extitit manifestum uircunque soler radij . perforam aliquand sub  intrabant.</p>
       </body>
-  </text>
+   </text>
 </TEI>
