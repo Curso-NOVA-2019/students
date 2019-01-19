@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div>
+            <p>
+              <pb/> 
+               <lb/>PROLOGO.
+               <lb/>Muyto alta &amp; muyto
+               <lb/>Poderosa Raynha nossa Senhora.
+               <lb/>EScreue AEmilio Papiniano
+               <lb/>(hum dos mais excellentes
+               <lb/>Iurisconsultos do dereyto 
+               <lb/>ciuil) q~ as molheres sam de 
+               <lb/>piorcondição que os hom~es 
+               <lb/>em muitas sentenças &amp; con-
+               <lb/>clusões, &amp; da hi naceo accu-
+               <lb/>mularem os doEtores muitas causas &amp; doEtrinas,
+               <lb/>nas quaes os hom~es tem mais prerogatiuas &amp; pre
+               <lb/>heminencias que as molheres: outros tomaram
+               <lb/>por jnuençam &amp; doEctrina escreuer contra a vida
+               <lb/>&amp; costumes do genero feminino, casi accusando
+               <lb/>a natureza por produzir femeas &amp; nam machos
+               <lb/>(como dizem muitos textos do dereito com~u)nã
+               <lb/>se lembrando que podera nosso Redemptor Iesu
+               <lb/>christo tomar natureza humana em genero femi
+               <lb/>nino (segundo afirmam os doEtores sagrados,)
+               <lb/>posto que foy mais conueniente &amp; honesto vestir
+               <lb/>se da humanidade no genero masculino, &amp; que 
+               
+               <lb/>a sentença de Papiniano seja verdadeira &amp; com~u-
+               <lb/>mente aprouada, todavia se pode afirmar (pode-
+               <lb/>rosisima Senhora )que jgualmente procedem os
+               <lb/>hom~es &amp; molheres na mor parte dos casos &amp; cõ-
+               <lb/>clusões de dereito, &amp; que ho genero masculino
+               <lb/>sempre comprehende ho feminino,tirando alg~us
+               <lb/>casos exceptuados nos quaes a materia he difer~e-
+               <lb/>te &amp; nam conuem aas femeas como aos machos
+               <lb/>porque assi como ha muitas cousas em que os ho-
+               <lb/>m~es sam de milhor condiçam, assiõ outras muytas 
+               <lb/>tem as molheres mayores, &amp; mais supremas pre-
+               <lb/>rogatiuas que os hom~es, pelo que me pareceo cu-
+               <lb/>riosidade jndigna de reprehensam,ajuntar alg~uas
+               <lb/>virtudes em que as molheres forão jguaes &amp; pre-
+               <lb/>cederam aos hom~es, &amp; alg~us Priuilegios &amp; Pre-
+               <lb/>rogatiuas com que sam mais priuilegiadas &amp; sa-
+               <lb/>uorecidas em dereito ( cousa mais trabalhosa 
+               <lb/>que futild), tratando somente do que acho scripto em
+               <lb/>seu louuor &amp; vtilidade, pois ha tantos que escre-
+               <lb/>ueram ho contrarioe .A qual jnuensam &amp; traba-
+               <lb/>lho me nã atreuo defender dos graues &amp; excellen-
+               <lb/>tes auEtores que escreueram a contraria opiniam,
+               <lb/>se namesperando que V .A..(serenisina senhora)
+               
+               <lb/>por me fazer merce, &amp; dar atreuimento pera es-
+               <lb/>creuer outras cousas mais jmportentes aa sua Re
+               <lb/>publica, ho aceite em feruiço, &amp; aproue cõ a som-
+               <lb/>bra de sua real proteiçam, de que nacerá ousar esta
+               <lb/>obra fair em publico, &amp; ficar tam fegura &amp; sem
+               <lb/>receo, que nam temeraa reprehensam alg~ua hu-
+               <lb/>mana, &amp; a. V.A. como aa mais excell~ete &amp; supre-
+               <lb/>ma Princesa &amp; senhora do m~udo, conu~e defender
+               <lb/>&amp; aprouar tudo ho que se escreuer em louuor do 
+               <lb/>genero feminino, pera que outros de mais erudiçã
+               <lb/>&amp; doEtrina possam dar fim &amp; perfeiçam a estes 
+               <lb/>meus principios &amp; cometimentos, que nam sam 
+               <lb/>mais que as amostras do muyto que podem escreuer nesta materia. 
+            </p>
+         </div>
+      </body>
+  </text>
+</TEI>
