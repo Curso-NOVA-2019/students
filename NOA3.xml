@@ -3,34 +3,54 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
+   
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Livro de Noa 
-               [ANTT Mosteiro de Santa Cruz de Coimbra , liv. 99, fol.2-9v]
-               vide chronicom conimbricense part. 1, nº 6</title>
+               ANTT Mosteiro de Santa Cruz de Coimbra , liv. 99, fol.2-9v
+               vide Chronicon Conimbricense part. 1, nº 6</title>
          </titleStmt>
          <publicationStmt>
+            <publisher></publisher>
+            <availability>
             <p>Publication Information</p>
+               <licence></licence>
+            </availability>
          </publicationStmt>
+         
          <sourceDesc>
-            <p>Information about the source</p>
+            <listWit>
+               <witness xml:id="LN1">
+              <msDesc>
+               <msIdentifier>
+               <settlement> Lisboa</settlement>
+               <repository> ANTT </repository>
+               <idno> mss. N3</idno>
+               <msName> Livro da Noa</msName>
+               </msIdentifier>
+               </msDesc>
+               </witness>
+               </listWit>
          </sourceDesc>
       </fileDesc>
+      
    </teiHeader>
    <text>
       <body xml:space="preserve">
          <pb n="2r"/>
-            <lb n="1"/><ab n="319"><hi rend="rubric">I</hi>n era <rs type="date" n="319">.cccª.xª.viiij.</rs> Egressi sunt goti de terra
-            <lb n="2"/>sua .</ab><ab n="366">Era <rs type="date" n="366">.cccª.LXª.VIª.</rs> Ingressi in s
-            <lb n="3"/>paniam . et dominati sunt eam annis .ccctis.
-            <lb n="4"/>lxxxª . iijbus . Et de terra sua preuenerunt in span
-            <lb n="5"/>iam per annos decem septem . Antequam 
-            <lb n="6"/>donnus pelagius regnaret . sarreceni regnaurunt  in ispaniam anni .ve.
-                  Donnus pelagius regnauit . annos xª . viiijem.</ab>
-         <p>In era . mª . xxª . vª . accepit almanzur colimbriam . iiijto . kalendas iulij .
-            In era . mª . xxª . viijª . Accepit almanzur montem maiorem.
-            In era . mª Lxª . vª . Fure presa ciuitas lamecos . iijº . kalendas decembris . In die sancti saturnim . premanus fernandi regis .
+            <lb n="1"/><ab n="319"><hi rend="rubric">I</hi>n era <date when="0319">.cccª.xª.viiijª.</date> Egressi <am>s̄</am><ex>sunt</ex> goti de <am>t'ra</am><ex>terra</ex><lb n="2"/>
+            <lb n="2"/>sua .</ab>
+         <ab n="396"><hi rend="rubric">E</hi>ra <date when="0396">.cccª.lxª. viª.</date><hi rend="rubric">I</hi>ngressi in s
+            <lb n="3"/>paniam. et dominati sunt eam annis .ccctis.
+            <lb n="4"/>lxxxª. iijbus. <hi rend="rubric">E</hi>t de terra sua preuenerunt in  <placeName type="reino" key="Hispania">spa
+            <lb n="5"/>niam</placeName>  <date dur="P17Y">per annos decem septem</date>. <hi> rend="rubric"A</hi>ntequam 
+            <lb n="6"/>donnus <persName key="Pelaio">pelagius</persName> regnaret; sarraceni 
+            <lb n="7"/> regnauerunt. <date dur="P5Y"> annis vª.<hi rend="rubric">D</hi>omnus
+             <lb n="8"/> pelagius regnauit;<date dur="P19Y">annos xem.viiijem.</date></date>. viiijem.
+              <lb n="9"/><hi rend="rubric">I</hi>n era . mª . xxª . vª . accepit almanzur colimbriam . iiijto . kalendas iulij .</ab><ab>
+            <lb n="10"/>  In era . mª . xxª . viijª . Accepit almanzur montem maiorem.</ab>
+            <lb n="11"/> In era . mª Lxª . vª . Fure presa ciuitas lamecos . iijº . kalendas decembris . In die sancti saturnim . premanus fernandi regis .
             In era . mª . Lxª. vi . presa fuit ciuitas uiseu . viijto . kalendas augusti ./ [fol. 2v] In die sancti cucufatj premanus fernandi regis .
             In era . mª . cª . ij. presa fuit ciuitas colimbria . viiijem . kalendas augustj die fram . vi . premanus fernandi regis .
             In era . mª. cª . xxª. ijª. presa fuit ciuitas toledo mense iulio . a rege ildefonso filio fernandi regis .
