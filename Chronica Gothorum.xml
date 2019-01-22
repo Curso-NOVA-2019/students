@@ -7,47 +7,64 @@
       <fileDesc>
          <titleStmt>
             <title>Chronica gothorum</title>
+            <author></author>
          </titleStmt>
          <publicationStmt>
-            <p>Library of Congress</p>
+            <publisher> </publisher>
+            <availability status="free">
+                 <p>Versão de consulta gratuita</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
-            <p>Information about the source</p>
+            <listWit>
+              <witness xml:id="LibraryofCongress">
+                 <msDesc>
+                    <msIdentifier>
+                       <settlement>Washington</settlement>
+                       <repository>Library of Congress</repository>
+                       <idno>Manuscripts, Peter Force, Series X, container 2</idno>
+                       <msName>Coronica de los Reis de Portugal MS. Volume</msName>
+                    </msIdentifier>
+                 </msDesc>
+              </witness>            
+            </listWit>
+
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
          <pb n="1r"/>
-         <p>E <choice><am>ª</am> <ex>ra</ex></choice> <pc>.</pc><date when="0319"> ccc xix </date> igressi sunt <rs type="definir">goti</rs>  de terra sua . </p>
-         <p>E <choice><am>ª</am> <ex>ra</ex></choice> . ccc lx vj . igressi sunt Hispaniam et regnauerunt íbí annis cc. lxxxº. iij. De
-            terra autem sua perueníunt ad hyspaníam per xvij annos.</p>
-         <p>Era . dcc xL viiijº sarraçeni hyspaníam adepti sunt regnant Roderíco atequam dominus
-            pelagíus regnaret . sarraceni regnauerunt hyspaníam – annis v. - </p>
-         <p>Era . dcc . liiij pelagíus fafilani ducis filíus regni annis xviiijº </p>
-         <p>Era . dcc lxx iij . fafilarus filíus eius regnauit ij annís et mensíbus vj </p>
-         <p>Era dcc . lxx vi Adefonsus fílíus petri ducis regnis annis xviiijº </p>
-         <p>Era dcc lx . v . froíla filius eíus regnauit annis xi actribus mensibus .</p>
-         <p>Era dccc vj aurelíus consubrinus eius regnauit annis vj et mensibus sextus </p>
-         <p>Era dccc xij . silo . regnauit annis viiij et xo uitam finíuit .</p>
-         <p>Era dcccc xxi mauregatus regna annis vj uitam que finiuit .</p>
+         <p> E<choice> <am>ª</am> <ex>ra</ex> </choice> <date when="0319"> ccc xix </date> igressi sunt <rs type="definir">goti</rs> de terra sua . </p>
+         <p> E<choice> <am>ª</am> <ex>ra</ex> </choice><pc>.</pc> <date when="0366">ccc lx vj </date><pc>.</pc> igressi sunt <placeName>Hispaniam</placeName> et
+            regnauerunt íbí annis <date dur="P283Y"> cc. lxxxº. iij<pc>.</pc></date> De terra autem sua perueníunt ad <placeName>hyspaníam</placeName> per <date dur="P17Y">xvij
+            annos</date>.</p>
+         <p> E<choice> <am>ª</am> <ex>ra</ex>  </choice> <pc>.</pc> <date when="0749"> dcc xL viiijº</date>  <rs type="definir"> sarraçeni </rs>
+            <placeName>hyspaníam</placeName> adepti sunt regnant <rs type="pessoa">Roderíco</rs>  atequam dominus <rs type="pessoa"> pelagíus </rs> regnaret .
+            <rs type="definir">sarraceni</rs> regnauerunt <placeName>hyspaníam</placeName> – <date dur="P5Y"> annis v. </date> - </p>
+         <p> E<choice> <am>ª</am> <ex>ra</ex></choice><pc>.</pc> <date when="0754">dcc <pc>.</pc> liiij </date> <rs type="pessoa">pelagíus fafilani </rs> <rs type="estatuto" subtype="duque">ducis</rs> <rs type="parentesco" subtype="filho"> filius</rs> regni <date dur="P18Y">annis xviiijº </date>  </p>
+         <p> E<choice> <am>ª</am> <ex>ra</ex></choice><pc>.</pc>  <date when="0763"> dcc lxx iij </date> <pc>.</pc> <rs type="pessoa"> fafilarus</rs> filíus eius regnauit <date dur="P2Y6M">ij annís et mensíbus vj </date></p>
+         <p> E<choice> <am>ª</am> <ex>ra</ex></choice> <date when="0776"> dcc <pc>.</pc> lxx vi </date> <rs type="pessoa"> Adefonsus </rs> <rs type="parentesco" subtype="filho"> filius</rs> <rs type="pessoa"> petri </rs> ducis regnis <date dur="P19Y"> annis xviiijº</date> </p>
+         <p> E<choice> <am>ª</am> <ex>ra</ex></choice> <date when="0765"> dcc lx<pc>.</pc> v<pc>.</pc></date> <rs type="pessoa">froíla </rs> <rs type="parentesco" subtype="filho"> filius</rs> eíus regnauit <date dur="P11Y3M">annis xi ac tribus mensibus </date>.</p>
+         <p> E<choice> <am>ª</am> <ex>ra</ex></choice> <date when="0806">dccc vj</date> <rs type="pessoa"> aurelíus</rs> consubrinus eius regnauit <date dur="P6Y6M">annis vj et mensibus sextus </date> </p>
+         <p> E<choice> <am>ª</am> <ex>ra</ex></choice> <date when="0812">dccc xij </date> <pc>.</pc> <rs type="pessoa">silo</rs> <pc>.</pc> regnauit <date dur="P9Y">annis viiij </date> et xo uitam finíuit .</p>
+         <p> E<choice> <am>ª</am> <ex>ra</ex></choice> <date when="0912">dcccc xxi</date> <rs type="pessoa">mauregatus</rs> regna <date dur="P6Y">annis vj</date> uitam que finiuit .</p>
          <pb n="1v"/>
-         <p>Era dcccc xx vj . vermudus regnauit annis iij hic ponte regnum dimisit et consubrinum
-            adefonsum quem mauregatus a regno expulerat regem fratrem . </p>
-         <p>Era dccc xx viijº adefonsus iste regnauit annis Lijª .</p>
-         <p>Era dccc lxxxº . ramirus filius veremudi regnauit annis vijº.</p>
-         <p>Era dcccc lxxxº viiij ordoníus filíus ramírí regna annis xvj .</p>
-         <p> Era dccccc iiijº . adefonsus ordoníj filius regnauit annis x viijº . iste prímo regni
-            sui anno et sue natiuitatis xiiijº . ab apostora froílano galliçie . comite per
-            tirannidem regno priuatur sed ipse rex castellam se contulit I non multo post eodum
-            froilano . rege tirano et in fausto a fidelibus regis adefonsi oueto interfecto . Idem
-            gloriosus puer ex castella reuertitor et in patris solio felicíter colocator quam ab
-            iniçio sui regni super inimicos uictoriarum fauorem semper habuit . illius tempore
-            inumabilis ismaelitarum exercitus ad legionem venit duce almundar fílío abderrahamen
-            rege fratre de mahometh . rege cordobense . sed nimis sibi nocuit quor ibi venit . nam
-            ibi multa milícia erant occísa . ceterus vero exercitus fugíendo euasit . ipisit dicbus
-            alter exercitus in berdigo et ingressus . sed gratias deo sine nocumento istius regis en
-            interemptus multosqui sed inimicorum termínos acquisuit rex iste cepit namque castrum
+         <p> E<choice> <am>ª</am> <ex>ra</ex></choice> <date when="0926">dcccc xx vj </date><pc>.</pc>  <rs type="pessoa">vermudus</rs> regnauit <date dur="P3Y">annis iij</date> hic ponte regnum dimisit et consubrinum
+            <rs type="pessoa">adefonsum</rs> quem <rs type="pessoa">mauregatus</rs> a regno expulerat regem fratrem . </p>
+         <p> E<choice> <am>ª</am> <ex>ra</ex></choice> <date when="0928">dccc xx viijº</date> <rs type="pessoa">adefonsus</rs> iste regnauit <date dur="P52Y">annis Lijª</date> .</p>
+         <p> E<choice> <am>ª</am> <ex>ra</ex></choice> <date when="0980">dccc lxxxº</date> <pc>.</pc> <rs type="pessoa">ramirus</rs> <rs type="parentesco" subtype="filho"> filius</rs> <rs type="pessoa">veremudi</rs> regnauit <date dur="P7Y">annis vijº</date>.</p>
+         <p> E<choice> <am>ª</am> <ex>ra</ex></choice> <date when="0989"> dcccc lxxxº viiij</date> ordoníus filíus ramírí regna annis xvj .</p>
+         <p>  E<choice> <am>ª</am> <ex>ra</ex></choice> dccccc iiijº <pc>.</pc> <rs type="pessoa">adefonsus</rs> <rs type="pessoa">ordoníj</rs> <rs type="parentesco" subtype="filho"> filius</rs> regnauit <date dur="P18Y"> annis x viijº .</date> iste prímo regni
+            sui anno et sue natiuitatis xiiijº . ab apostora <rs type="pessoa"> froílano</rs> <placeName type="condado">galliçie </placeName> <pc>.</pc> <rs type="estauto" subtype="conde"> comite</rs> per tirannidem regno priuatur sed ipse <rs type="estauto" subtype="rei">rex </rs> <placeName type="reino"> 
+            castellam</placeName> se contulit I non multo post eodum <rs type="pessoa"> froilano</rs> <pc>.</pc>  <rs type="estauto" subtype="rei">rege</rs> tirano et in fausto a fidelibus  <rs type="estauto" subtype="rei">regis</rs> <rs type="pessoa">adefonsi </rs> oueto interfecto . Idem
+            gloriosus puer ex <placeName type="reino">castella</placeName> reuertitor et in patris solio felicíter colocator quam ab iniçio sui regni super inimicos uictoriarum fauorem semper habuit . illius temporeinumabilis <rs type="definir"> ismaelitarum</rs> exercitus ad 
+            <placeName type="reino">legionem</placeName> venit <rs type="estauto" subtype="duque">duce</rs> <rs type="pessoa">almundar</rs> <rs type="parentesco" subtype="filho"> filío</rs> <rs type="pessoa">abderrahamen </rs><rs type="estatuto" subtype="rei">rege</rs>
+            <rs type="parentesco" subtype="irmão">fratre</rs> de <rs type="pessoa">mahometh</rs> .  <rs type="estatuto" subtype="rei">rege</rs> <placeName type="reino">cordobense</placeName> . 
+            sed nimis sibi nocuit quor ibi venit . nam
+            ibi multa milícia erant occísa . ceterus vero exercitus fugíendo euasit . 
+            ipisit dicbus alter exercitus in berdigo et ingressus . sed gratias deo sine nocumento istius 
+            regis en interemptus multosqui sed inimicorum termínos acquisuit rex iste cepit namque castrum
             quod der . nazzan . antensam uero pacem acquisium . Conimbríam ab inimicis possessam .
             hemítauit . et ex galle <pb n="2r"/>çis Postea populauit . Multa quoque alia castra sibi
             subseçit . et eius tempore eeclesia creuit regnum que ampliauit urbes quoque ampliauit
@@ -56,52 +73,54 @@
             etceteros Lusitanie limites gladio et fame comsumptos usque emeritam et maris littora
             heremítauít atque destruxít . permansit autem regnum hyspanie christianorum usque ad
             almanzor annis cm . xx iiijº </p>
-         <p>Era M. xx viijº . Kalendas. Iulij almanZor ibenamer cepit colímbríam . et sic a multis
+         <p> E<choice> <am>ª</am> <ex>ra</ex> </choice>  M. xx viijº . Kalendas. Iulij almanZor ibenamer cepit colímbríam . et sic a multis
             seníbus audiuimus . deserta fuit septem annis postea . reedifícauerunt eam ismaelite et
             renuerunt eam Lxx . annis .</p>
-         <p>Era M . xxv iiijº . iiijº nonis decembris almanzor cepit montem maiorem .</p>
-         <p> Era M. xxx ª iijª almanzor cepit castellum de aguilar . quod est rippa sause in
-            portugalense prouincía . Era M. xvj [sic] . ij nonas octobri occisus fuit comes menendus
+         <p><choice> <am>Eª</am> <ex>Era</ex> </choice> M . xxv iiijº . iiijº nonis decembris almanzor cepit montem maiorem .</p>
+         <p> <choice> <am>Eª</am> <ex>Era</ex> </choice> M. xxx ª iijª almanzor cepit castellum de aguilar . quod est rippa sause in
+            portugalense prouincía . </p>
+         <p> <choice> <am>Eª</am> <ex>Era</ex> </choice> M. xvj [sic] . ij nonas octobri occisus fuit comes menendus
             gunsalmez. </p>
-         <p>Era M. Liiijº . viij º idus septembris . veniunt ormanes ad castellum virmudii que est
+         <p><choice> <am>Eª</am> <ex>Era</ex> </choice> M. Liiijº . viij º idus septembris . veniunt ormanes ad castellum virmudii que est
             in prouinçia bracarensi comes tune ibi erat aluitus nuniZ . </p>
          <pb n="2v"/>
-         <p>Era M. Lxvj obijt rex dominus adefonssus uiseo et in ipso anno obijt comes nunus aluitiZ
+         <p><choice> <am>Eª</am> <ex>Era</ex> </choice> M. Lxvj obijt rex dominus adefonssus uiseo et in ipso anno obijt comes nunus aluitiZ
             [sic] .</p>
-         <p>Era . M. Lxxij . ij idus nouembrís gondisalus trastimiriZ cepit montem maiorem et
+         <p><choice> <am>Eª</am> <ex>Era</ex> </choice> . M. Lxxij . ij idus nouembrís gondisalus trastimiriZ cepit montem maiorem et
             reddidit cum christianis .</p>
-         <p>Era . M. Lxxvj Kalendas septembri gondísalus trastamiriZ occisus est in auenoso.</p>
-         <p>Era .M . lxxxiij . xº kalenda april Rex domnus uermudus habuit uictoríam de mauris
+         <p><choice> <am>Eª</am> <ex>Era</ex> </choice> . M. Lxxvj Kalendas septembri gondísalus trastamiriZ occisus est in auenoso.</p>
+         <p><choice> <am>Eª</am> <ex>Era</ex> </choice> .M . lxxxiij . xº kalenda april Rex domnus uermudus habuit uictoríam de mauris
             pugnauit cum eis et cepit ibi regem eorum cunea nume in uilla ceSari ínteriorio castelli
             sancte marie .</p>
-         <p>Era . M. lxxxv. obijt ipse rex dominus vermudus Era . M. xc v Rex dominus Fernandus cum
+         <p><choice> <am>Eª</am> <ex>Era</ex> </choice> . M. lxxxv. obijt ipse rex dominus vermudus</p> 
+         <p><choice> <am>Eª</am> <ex>Era</ex> </choice> . M. xc v Rex dominus Fernandus cum
             coniuge sua regina donna sançia cepit lamecum iij kalendas decemberis in festíuitate
             sancti saturníni lucescente die sabbati .</p>
-         <p>Era . M xc vj . iiijº kalendas augusti in die sancti cuçufati Rex donus fernandus cepit
+         <p><choice> <am>Eª</am> <ex>Era</ex> </choice> . M xc vj . iiijº kalendas augusti in die sancti cuçufati Rex donus fernandus cepit
             ciuítatem uiseum postea senam . et sanctum martínum . de mauris . et Tharaucam et
             penaluiam . atque cetera castella . ipsarum vicinitatum per annos viijº .</p>
-         <p>Era . M . c. ij. viijº . kalenda augusti feria vj . ín vespera sancti christo Rex donnus
+         <p><choice> <am>Eª</am> <ex>Era</ex> </choice> . M . c. ij. viijº . kalenda augusti feria vj . ín vespera sancti christo Rex donnus
             fernandus . cepit colibríam .</p>
          <pb n="3r"/>
-         <p>Era . M . c . iij . Rex Donnus fernandus mortuus est . et vijº Kalendas ianiarij
+         <p><choice> <am>Eª</am> <ex>Era</ex> </choice> . M . c . iij . Rex Donnus fernandus mortuus est . et vijº Kalendas ianiarij
             sepultus est in legíonensi cíuítate .</p>
-         <p>Era . M . c. iijº . vi kalendas decembris mortuus est menendus gunZaluiZ vir illutris et
+         <p><choice> <am>Eª</am> <ex>Era</ex> </choice> . M . c. iijº . vi kalendas decembris mortuus est menendus gunZaluiZ vir illutris et
             magne potencie in toto portugali fílius gundisalui transmiriz .</p>
-         <p>Era . M. c. viiijº . xv kalendas februarij Portugalenses commiserunt prelium aduersus
+         <p><choice> <am>Eª</am> <ex>Era</ex> </choice> . M. c. viiijº . xv kalendas februarij Portugalenses commiserunt prelium aduersus
             regem donnum garcíam filium regis donni fernandi habebant que çepit caput in ipso bello
             comite nuno mendez .</p>
          <p>I perijt ipse ibí et cuncti alij sui fugierunt obtinuit autem rex de illis victoríam in
             loco qui Dicitur petro sum . inter bracaram et fluvium cadauo .</p>
-         <p> Era . M. c. x. occisus est rex sancíus fílius regis donni fernandi ad faciem Ignore
+         <p> <choice> <am>Eª</am> <ex>Era</ex> </choice> . M. c. x. occisus est rex sancíus fílius regis donni fernandi ad faciem Ignore
             ciuitatis Post cuius mortem frater eius rex donnus alfonsus regnum obtinuit hyspanie qui
             bella multa exercuít annis multis aduersus sarracenos . christiani nostrus ínímicos
             alijs bellum dabat abalijs tríbutum accipiebat.</p>
-         <p> Era . M . c. xv. mense septembris . cepit idem rex adefonsus cauriam ciuitatem.</p>
+         <p> <choice> <am>Eª</am> <ex>Era</ex> </choice> . M . c. xv. mense septembris . cepit idem rex adefonsus cauriam ciuitatem.</p>
          <pb n="3v"/>
-         <p>Era . M . c . xx. iij . viij Kalendas Iunij rex donnus adefonsus cepit . ciuitatem .
+         <p><choice> <am>Eª</am> <ex>Era</ex> </choice> . M . c . xx. iij . viij Kalendas Iunij rex donnus adefonsus cepit . ciuitatem .
             toletum .postea talaueíram . cunctaque castella que sunt in carpanía prouinçia
             cartagínis . subiacentía regi urbi toleto que est metropolis. </p>
-         <p>Era . M . c. xxv. Rex donus alfonsus magnum prelíum habuit cum rege sarracenorum iucifi
+         <p><choice> <am>Eª</am> <ex>Era</ex> </choice> . M . c. xxv. Rex donus alfonsus magnum prelíum habuit cum rege sarracenorum iucifi
             bentexafaj, transmarino ad faciem ciuitatis badalioz in loco qui dicitur sagalias ubi
             unanimiter conuenerunt cum rege . nostro christiani , aportibus alpes multique francorum
             in adiutoríum eius affuerunt . sed diabolo aduirsante timor magnus inuasit plurimos
@@ -125,27 +144,29 @@
             lancea cum nimium sitiret propter fluxum sanguinis Decurrentis a plaga vice a qui
             propinauerunt ei uinum que aquam non inuenerant . unde Sincopi passus cum his qui secum
             aduerant reuersus est cauriam . Sarraceni que reuersi sunt vnusquisque ad loca sua.</p>
-         <p>Era . M . c . xx viiij. viijº kalendas septembre . obijt aluazil Donus sesnandus .</p>
-         <p> Era . M . c . xxxj . iiº kalendas Maij sabbato hora nona Rex Donus Alfonsus cepit
-         ciuitatem Sanctaren anno regni sui xx. viij . mense . v . sex <pb n="4v"/> ta die mensis, et
-         in eadem hebdomada pridie nonas maij fería .v. cepit vlíxbonam . post tertium autem diem .
-         viijº idus maii . cepit sint[sic] preposuit que eis generum suum comitem donnum raimundum
-         marítum filie sue donne orrace et sub manu eius suarium menendi . ipse autem Rex reuersus
-         est toletum. </p>
-         <p>Era . M. c. xxxxvij . iij . kalendas Iulij obíjit rex Donus Alfonsus regis
-            Donni fernandi filius. Era . M. c . xL. vij menses julío íterum capta fuit sintera [sic] a
-            comite Donno henrríco genero donni Alfonsi regis marito fillie sue regine donne tharasie .
-            audientes enim sarraceni mortem regis ceperunt rebellare .</p>
-         <p>Era . M . c. xl . viijº . factum est magnum infortuníum super christianorum qui iban ad sanctaren por anudunba in loco qui
-            dicitur valatandi Dum enim vellent ibi christiani figere temptoria et requiescere ecce
-            subito ex improuiso multitudo sarracenorum moabitarum et arabum . audito . nue eorum
-            uenierunt et irruerunt super eos repente et inparatos eos inuenientes . interfecerunt ex
-            eís plurimos ibique mortuus fuit suarios famariguit pater de nuno suariz . qui erat Dux
-            super eos et mído cresconiz pater de johannes midiz.</p>
+         <p><choice> <am>Eª</am> <ex>Era</ex> </choice> . M . c . xx viiij. viijº kalendas septembre . obijt aluazil Donus sesnandus .</p>
+         <p> <choice> <am>Eª</am> <ex>Era</ex> </choice> . M . c . xxxj . iiº kalendas Maij sabbato hora nona Rex Donus Alfonsus cepit
+            ciuitatem Sanctaren anno regni sui xx. viij . mense . v . sex <pb n="4v"/> ta die
+            mensis, et in eadem hebdomada pridie nonas maij fería .v. cepit vlíxbonam . post tertium
+            autem diem . viijº idus maii . cepit sint[sic] preposuit que eis generum suum comitem
+            donnum raimundum marítum filie sue donne orrace et sub manu eius suarium menendi . ipse
+            autem Rex reuersus est toletum. </p>
+         <p><choice> <am>Eª</am> <ex>Era</ex> </choice> . M. c. xxxxvij . iij . kalendas Iulij obíjit rex Donus Alfonsus regis Donni
+            fernandi filius. </p>
+         <p> <choice> <am>Eª</am> <ex>Era</ex> </choice> . M. c . xL. vij menses julío íterum capta fuit sintera [sic] a
+            comite Donno henrríco genero donni Alfonsi regis marito fillie sue regine donne tharasie
+            . audientes enim sarraceni mortem regis ceperunt rebellare .</p>
+         <p><choice> <am>Eª</am> <ex>Era</ex> </choice> . M . c. xl . viijº . factum est magnum infortuníum super christianorum qui iban ad
+            sanctaren por anudunba in loco qui dicitur valatandi Dum enim vellent ibi christiani
+            figere temptoria et requiescere ecce subito ex improuiso multitudo sarracenorum
+            moabitarum et arabum . audito . nue eorum uenierunt et irruerunt super eos repente et
+            inparatos eos inuenientes . interfecerunt ex eís plurimos ibique mortuus fuit suarios
+            famariguit pater de nuno suariz . qui erat Dux super eos et mído cresconiz pater de
+            johannes midiz.</p>
          <pb n="5r"/>
-         <p>Era . M . c . xL . viijº . Rex cirus cepit sanctaren . vij . kalendas Iunij. </p>
-         <p>Era . M . c. xL . viijº . natus fuit infans Alfonsus . comitis henrrici et Regine donne tarasie filius . regis donni Alfonsi
-            nepos .</p>
-           </body>
+         <p><choice> <am>Eª</am> <ex>Era</ex> </choice> . M . c . xL . viijº . Rex cirus cepit sanctaren . vij . kalendas Iunij. </p>
+         <p><choice> <am>Eª</am> <ex>Era</ex> </choice> . M . c. xL . viijº . natus fuit infans Alfonsus . comitis henrrici et Regine donne
+            tarasie filius . regis donni Alfonsi nepos .</p>
+      </body>
    </text>
 </TEI>
