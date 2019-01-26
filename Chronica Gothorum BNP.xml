@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Chronica gothorum</title>
+                <author>Doutor António Brandão </author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher> </publisher>
+                <availability status="free">
+                    <p>Versão de consulta gratuita</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="MosteiroAlcobaca">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Lisboa</settlement>
+                                <repository>Biblioteca Nacional de Portugal</repository>
+                                <idno>Reservados, Alc. 116, fl.311-319v</idno>
+                                <msName>Miscelanea Historica e Genealógica</msName>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                </listWit>
+
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="311"/>
+            <p><date when="0348">Era ccc <pc>.</pc> xL. viiij</date> <pc>.</pc> egressi sunt <rs type="definir">
+                gotti</rs> de terra sua<pc>.</pc></p>
+            <p><date when="0366">Era ccc<pc>.</pc> Lx<pc>.</pc> vj<pc>.</pc></date> ingressi sunt <placeName>Hispaniam</placeName> et regnauerunt ibi <date dur="P388Y">annis <pc>.</pc> ccc<pc>.</pc>
+                Lxxx<pc>.</pc> uij<pc>.</pc></date> de terra antem sua peruenerunt ad <placeName>Hispaniam</placeName> per<date dur="P17Y"> 17
+                    annos</date><pc>.</pc></p>
+            <p>Era <date when="0730">septingentesima trigessima</date> alias e <date when="0718">D<pc>.</pc> CC<pc>.</pc> X<pc>.</pc>viiij</date>
+                expulsi sunt de <placeName>Regno Hispania</placeName> regnante <rs type="pessoa"><rs type="estatuto" subtype="rei">Vuitiza</rs></rs><pc>.</pc></p>
+            <p><date when="0749">Era 749</date> e <pc>.</pc><date when="0750">DCC<pc>.</pc> L<pc>.</pc></date> <rs type="definir">Sarraceni</rs> <placeName>Hispaniam</placeName> adepti sunt
+                regnante <rs type="pessoa">Rodericu</rs> antequam dominus <rs type="pessoa">Pelagius</rs> regnaret <rs type="definir">Sarracceni</rs> <placeName>Hispaniam</placeName> obtinuit
+                antequam donis <rs type="pessoa">Pelagios</rs> regnaret <rs type="definir">Sarraceni</rs> regnauerunt in <placeName>Hispania</placeName> <date dur="P5Y">annjs
+                    v</date><pc>.</pc></p>
+            <p><date when="0754">Era 754</date> <rs type="pessoa">Pelagius</rs>  <rs type="pessoa">Fafilani</rs> <rs type="parentesco" subtype="filho">filius</rs> regnauit <date dur="P19Y">annis 19</date><pc>.</pc></p>
+            <p><date when="0773">Era 773</date> <pc>.</pc>  <rs type="pessoa">Fafilanus</rs> <rs type="parentesco" subtype="filho">filius</rs> eius regnauit <date dur="P2Y6M">2 annis et mensibus
+                6<pc>.</pc></date></p>
+            <p><date when="0776">Era 776</date> <rs type="pessoa">Adefonsus</rs> . <rs type="parentesco" subtype="filho">filius</rs> <rs type="pessoa">Petri</rs> <rs type="estatuto" subtype="duque">Ducis</rs> regnauit <date dur="P19Y">annis
+                19</date><pc>.</pc></p>
+            <p><date when="0785">Era 785</date> <rs type="pessoa">Froila</rs> <rs type="parentesco" subtype="filho">filius</rs> eius regnauit <date dur="P11Y3M">annis 11 <pc>.</pc> ac 3 mensibus
+            </date><pc>.</pc> <pc>(</pc>Alc<pc>.</pc> <date dur="P11Y5M3D">anni xi mensibus v<pc>.</pc> die xx.</date><pc>)</pc></p>
+            <p><date when="0806">Era 806</date> <rs type="pessoa">Aurelius</rs> <rs type="parentesco" subtype="sobrinho">consobrinus</rs> eius regnauit <date dur="P6Y6M">annis 6 et mensi
+                6<pc>.</pc></date></p>
+            <p><date when="0812">Era 812</date> <pc>.</pc> <rs type="parentesco" subtype="filho">filius</rs> regnauit <date dur="P9Y10M">annis 9 et 10 mensibus</date> <pc>(</pc>Alc<pc>.</pc>
+                <date dur="P8Y1M1D">annis viij mensis I <pc>.</pc>die i<pc>.</pc></date><pc>)</pc></p>
+            <p><date when="0821">Era 821</date> <rs type="pessoa">Mauregatus</rs> regnauit<date dur="P6Y"> annis 6</date> uitanquam finima alias
+                regnauit<date dur="P5Y5M"> annis v<pc>.</pc>menses v<pc>.</pc></date></p>
+            <p><date when="0826">Era 826</date> <rs type="pessoa">Bermundus</rs> regnauit <date dur="P3Y">annis 3</date> <pc>.</pc> [sic] <rs type="estatuto" subtype="rainha">Regna</rs> dimisit et
+                <rs type="parentesco" subtype="sobrinho">sobrinum</rs> suem <rs type="pessoa">Adefonsus</rs> qui <rs type="pessoa">Mauregatus</rs> a regno expulsus Regem fecit<pc>.</pc></p>
+            <pb n="311v"/>
+            <p><date when="0828">Era 828</date> <rs type="pessoa">Adefonsus</rs> iste regnauit <date dur="P5Y">annis 5</date><pc>.</pc></p>
+            <p><date when="0880">Era 880</date> <rs type="pessoa">Ramirus</rs> <rs type="parentesco" subtype="filho">filius</rs> <rs type="pessoa">Vermundi</rs> regnauit <date dur="P7Y">annis 7</date><pc>.</pc></p>
+            <p><date when="0883">Era 883</date>  <rs type="pessoa">Ordonius</rs> <rs type="parentesco" subtype="filho">filius</rs>  <rs type="pessoa">Ramiri</rs> regnauit <date dur="P16Y">annis 16</date><pc>.</pc></p>
+            <p><date when="0904">Era 904</date>  <rs type="pessoa">Adefonsus</rs>  <rs type="pessoa">Ordonijs</rs> <rs type="parentesco" subtype="filho">filius</rs> regnauit<date dur="P18Y"> annis 18</date><pc>.</pc> Iste
+                1º regni suis anno este natiuitatis 14 ab Apostata <rs type="pessoa">Fruilano</rs> <placeName>Gallecia</placeName> <rs type="estatuto" subtype="conde">Comite</rs> per
+                tyrannidem regno priuatur sed ipse <rs type="estatuto" subtype="rei">Rex</rs> <placeName>Castellan</placeName> se contulit et non multo post eodem
+                <rs type="pessoa">fruilano</rs> <rs type="estatuto" subtype="rei">rege tyranno</rs> et infausto à fidelibus <rs type="estatuto" subtype="rei">Regis</rs> <rs type="pessoa">Adefonsi Ouieto</rs> interfecto idem
+                gloriosus fauala <placeName>Castella</placeName> reuertitur et in pacis soleo feliciter collocatur <pc>.</pc> qui ab
+                initio sui Regni semper inimicos uictoriam fauorem semper abuit <pc>.</pc> Illius ipsi
+                innumerabilis <rs>Ismaelitarum</rs> exercitus ad <placeName>Legionem</placeName> uenit <rs>Duce</rs> <rs type="pessoa">Almudarium</rs> <rs>filio</rs>
+                <rs type="pessoa">Abderrahamen</rs> <rs>rege</rs> <rs>fratre</rs> de <rs type="pessoa">Mahometh</rs> <rs>Rege</rs> <placeName>Cordubensi</placeName> id minus sibi nocuit quie ubi
+                uenit, iam ibi multa millia erant occisa <pc>,</pc> caterus uero ex exercitus fugiendo euasit
+                <pc>.</pc> Ipsius diebus alter exercitus in <placeName>Berdigo</placeName> est ingressus sed gratia Deo sine
+                nocumento istius Regis est interemptus<pc>.</pc> Multo que etiam inimicorum terminos
+                acquisiuit Rex iste capit namque <placeName>Castrum quod dici Nazan<pc>.</pc> Anteneam uero pace
+                    acquisiuit <pc>.</pc> <placeName>Conimbrivan</placeName> ab inimicis possessam heremitauit et ex <rs type="definir">Gallicibus</rs> postea
+                populauit multa quoque alia <placeName>Castra</placeName> sebi subtesit<pc>.</pc> Eius tempore ecclesia creuit <pc>.</pc>
+                    regnum que ampliauit <pc>:</pc> Vrbes quoque iste a <rs type="definir">Christianis</rs> populant <pc>.</pc>s<pc>.</pc> <rs type="definir">Bracharensis</rs>
+                    <rs type="definir">Portugalensis</rs> <pc>.</pc> <rs type="definir">Aucensis</rs> <pc>,</pc> <rs type="definir">Vicensis</rs> <pc>.</pc> <rs type="definir">Eminiensis</rs> <pc>.</pc> et ceterus <rs type="definir">Lusitania</rs> limites
+                    gladio et fame consumptos usque <rs type="definir">Emeritam</rs> et <placeName>Maris Littora</placeName> heremitauit atque
+                    destruxit . permansit autque regnum <placeName>Hispania</placeName> <rs type="definir">Christianorum</rs> vsque ad <rs type="pessoa">Almanzor</rs> <date dur="P124Y"> anno
+                124</date>.</placeName></p>
+            <p><date when="1026">Era 1026</date> <pc>.</pc> 3 calendas Julii <rs type="pessoa">Almanzor Benamet</rs> cepit <placeName>Colimbriam</placeName><pc>.</pc> <pb
+                n="312"/> et sicut a multis senibus audiuimus deserta fuit <date dur="P7Y">7 annis postea </date> readifacauerunt eam <rs type="definir">Hismaelita</rs> et tenuerunt eam<pc>.</pc></p>
+            <p><date when="1028">Era 1028</date><pc>.</pc> 4 nonis Decembris <rs type="pessoa">Almanzor</rs> cepit <placeName>Montem Maiorem</placeName><pc>.</pc></p>
+            <p><date when="1033">Era 1033</date><pc>.</pc> <rs type="pessoa">Almanzor</rs> cepit <placeName>Castellum de Aguilar</placeName> <pc>.</pc> quod est in ripa saura
+                in <placeName>Portugalens [sic] prouincia</placeName><pc>.</pc></p>
+            <p><date when="1046">Era 1046</date> <pc>.</pc> 2ª nonis octobris occisus fuit <rs type="estatuto" subtype="conde">Comes</rs> <rs type="pessoa">Menendus</rs><pc>.</pc></p>
+            <p><date when="1054">Era 1054</date> <pc>.</pc> 8º Idus septembris uenerunt <rs type="definir">Lormones</rs> ad <placeName>Castellum vermudij</placeName>
+                quod est in <placeName>prouincia Bracharensi</placeName><pc>.</pc> <rs type="estatuto" subtype="conde">Comes</rs> tunc ibi erat <rs type="pessoa">Aluitus Nuniz</rs><pc>.</pc></p>
+            <p><date when="1056">Era 1056</date> <pc>.</pc> obijt <rs type="estatuto" subtype="rei">Rex</rs> Donnus <rs type="pessoa">Adefonsus Viseo</rs> <pc>.</pc> et in ipso anno obijt
+                <rs type="estatuto" subtype="conde">Comes</rs> <rs type="pessoa">Nunus Alvares</rs><pc>.</pc></p>
+            <p><date when="1072">Era 1072</date> <pc>.</pc> 2 Idus nouembris <rs type="pessoa">Guandisaluus Transtamiriz</rs> cepit <placeName>Montem
+                Maiorem</placeName> <pc>.</pc> et reddidit cum <rs type="definir">Christianis</rs><pc>.</pc></p>
+            <p><date when="1076">Era 1076</date> Calendas septembris <rs type="pessoa">Guandisaluus Transtamiriz</rs> occius est in
+                <placeName>Auenozo</placeName><pc>.</pc></p>
+            <p><date when="1083">Era 1083</date> <pc>.</pc> 10º Calendas April <pc>.</pc> <rs type="estatuto" subtype="rei">Rex</rs> Donnus <rs type="pessoa">Vermundo</rs> hiui uictoriam de
+                <rs type="definir">Mauris</rs>. pugnauit cum eis et cepit ibi Regem eorum cemia in <placeName>uilla casari</placeName> in
+                territorio <placeName>Castelli Sancte Maria</placeName><pc>.</pc></p>
+            <p><date when="1089">Era 1089</date> <pc>.</pc> Obijt ipse <rs type="estatuto" subtype="rei">Rex</rs> <rs type="pessoa">Vermundus</rs>.</p>
+            <p><date when="1095">Era 1095</date> <pc>.</pc> <rs type="estatuto" subtype="rei">Rex</rs> D<pc>.</pc> <rs type="pessoa">Fernandus</rs> com <rs type="estatuto" subtype="esposa">coniuge</rs> sua 
+                <rs type="estatuto" subtype="rainha">Regina</rs> <rs type="pessoa">Sancia</rs> cepit <placeName>Lamecum</placeName> <pc>.</pc> 3º Calendas Decembris in festiuitate Sancti Saturnini Iuscescenti die
+                sabbathi<pc>.</pc></p>
+            <pb n="312v"/>
+            <p><date when="1096">Era 1096</date> <pc>.</pc> 4º Calendas Augusti in die Sancto Cucufatis <rs type="estatuto" subtype="rei">Rex</rs> Donnus
+                <rs type="pessoa">Fernandus</rs> cepit <placeName>ciuitatem Viseum</placeName> <pc>.</pc> postea <placeName>Geisam</placeName> <pc>.</pc> et 
+                <placeName>Sancto Martinum de Mauris</placeName> <pc>.</pc> et <placeName>Trauancaa</placeName> et <placeName>Penaluiam</placeName> atque cetera <placeName>castella</placeName> 
+                <rs type="definir">Christianorum</rs> uicinitatum per<date dur="P8Y"> annos 8<pc>.</pc></date></p>
+            <p><date when="1102">Era 1102</date> <pc>.</pc> 8 calendas Augusti <pc>.</pc> feria 6ª in vespera Sancto Christofori
+                <rs type="estatuto" subtype="rei">Rex</rs> Donnus <rs type="pessoa">Fernandus</rs> capit <placeName>Colimbriam</placeName><pc>.</pc></p>
+            <p><date when="1103">Era 1103</date> <pc>.</pc> <rs type="estatuto" subtype="rei">Rex</rs> Donnus <rs type="pessoa">Fernandus</rs> mortuus est <pc>.</pc> et 7º calendas Januarij
+                sepultus est in <placeName>Legionensi Ciuitate</placeName><pc>.</pc></p>
+            <p><date when="1103">Era 1103</date> <pc>.</pc> 6º calendas Decembris mortuus est <rs type="pessoa">Menendus Gunsaluiz</rs> uir
+                illustris et magna potentia in toto <placeName>Portugalli</placeName> <rs type="parentesco" subtype="filho">filius</rs> <rs type="pessoa">Gunsalui Trastamiz</rs><pc>.</pc></p>
+            <p><date when="1109">Era 1109</date> <pc>.</pc> 15 <pc>.</pc> calendas Februari <placeName>Portugallenses</placeName> commiserunt pralium
+                aduersus <rs type="estatuto" subtype="rei">regem</rs> Donnus <rs type="pessoa">Garsiam</rs> <rs type="parentesco" subtype="irmão">fratrem</rs> <rs type="estatuto" subtype="rei">regis</rs> Donni 
+                <rs type="pessoa">Fernandi</rs> <pc>.</pc> hebantque tunc caput in ipso bello <rs type="estatuto" subtype="conde">Comitem</rs> <rs type="pessoa">Nuno Menendiz</rs> <pc>.</pc> perijt ipse ibi et 
+                cuncti alij sui fugerunt <pc>,</pc> obtinuit autem rex de illis cuctoriam in loco qui dicitur <placeName>Pertalini</placeName> inter <placeName>Brachara</placeName>
+                et <placeName>fLuuium Cauado</placeName><pc>.</pc></p>
+            <p><date when="1110">Era 1110</date> <pc>.</pc> Occisus est <rs type="estatuto" subtype="rei">Rex</rs> <rs type="pessoa">Sancius</rs> <pc>,</pc><rs type="parentesco" subtype="filho">filius</rs> 
+                <rs type="estatuto" subtype="rei">Regis</rs> donni <rs type="pessoa">Fernandi</rs> ad faciem <placeName>Zamora Ciuitatis</placeName> post cuius mortem frater eius <rs type="estatuto" subtype="rei">Rex</rs>
+                Donnus <rs type="pessoa">Alfonsus</rs> Regnum obtinuit <placeName>Hispania</placeName><pc>,</pc> qui bella multa exercuit annis multis aduersus <rs type="definir">Sarracenos</rs> <rs type="definir">Christianis</rs>
+                nostris inimicos <pc>.</pc> alijs bellum dabat <pc>.</pc> alijs tributum accipiebat<pc>.</pc></p>
+            <p><date when="1115">Era 1115</date> <pc>.</pc> mense septembris cepit idem <rs type="estatuto" subtype="rei">Rex</rs> <rs type="pessoa">Alfonsus</rs> <placeName>Cauriam Ciuitatem</placeName><pc>.</pc></p>
+            <p><date when="1123">Era 1123</date> <pc>.</pc> 8º calendas Junij <rs type="estatuto" subtype="rei">Rex</rs> Donnus <rs type="pessoa">Alfonsus</rs> cepit <placeName>ciuitas Toletum</placeName> <pc>.</pc>
+                postea <placeName>Talauiram</placeName> cunctaque <placeName>Castella</placeName> qui sunt in <placeName>Carpania</placeName> <placeName>prouincia Carthagennis</placeName>
+                subiacentia Regia <placeName>urbi toleti</placeName> qui est Metropolis<pc>.</pc></p>
+            <p><date when="1125">Era 1125</date> <pc>.</pc> <rs type="estatuto" subtype="rei">Rex</rs> Donnus <rs type="pessoa">Alfonsus</rs> magnum pralium huit<pc>,</pc> cum <rs type="estatuto" subtype="rei">rege</rs>
+                <rs type="definir">Sarracenorum</rs> <rs type="pessoa">Iucef Bennamarim</rs> <rs type="definir">Transmarino</rs> ad faciem <placeName>ciuitatis Badajoz</placeName> in loco 
+                <pb n="313"/> qui dicitur <placeName>Sagalias</placeName> <pc>.</pc> ubi unanumiter conuenerunt cum Rege nostro
+                <rs type="definir">Christiani</rs> apartibus <placeName>Alpes</placeName><pc>,</pc> multique <rs type="definir">Francorum</rs> in adiutorium eius affuerunt <pc>.</pc> sed
+                Diabolo aduersante timor magnus inuasit plurimos nostrorum <pc>.</pc> et fugerunt ex eis multa millia<pc>,</pc> nullo eos pesequente <pc>.</pc> Rex uero aderant omnes <rs type="definir">Sarraceni</rs> totius
+                <placeName>Hispania</placeName> armati<pc>.</pc> <rs type="pessoa">Iusef Bentaisafim</rs> <rs type="definir">barbarorum</rs> <pc>.</pc> <rs type="definir">Transmarinorum</rs> <pc>.</pc> 
+                <rs type="definir">Moabitarum</rs> <pc>.</pc><rs type="definir">Arambique</rs> secum traduxerat <pc>.</pc> quorum numerum nec ipse eorum Rex <pc>.</pc> nec aliquis homo
+                scire poterat nisi solus dominus <pc>.</pc> Pugnauit itaque <rs>Rex</rs> donnus <rs type="pessoa">Alfonsus</rs> et qui remanserant cum eoaduersus <rs type="definir">Sarracenos</rs> Vsque ad noctem
+                nullorum que inimicorum substinens ualebat eius presentem incursionem sed se concludentes <rs type="definir">sarraceni</rs> interficiebant <rs type="definir">Christianorum</rs> multitudinem <pc>.</pc> 
+                in tantum uero <rs type="estatuto" subtype="rei">Rex</rs> <placeName>Castellam</placeName><rs type="definir">Sarracenorum</rs> et acies inuasit <pc>.</pc> et interficiendo eos <pc>.</pc> et dispergendo 
+                expulit huc <pc>.</pc> et illuc quousque preuenit ad Locum <pc>.</pc> vbi <rs type="estatuto" subtype="rei">Regis</rs> <rs type="pessoa">Ioseph</rs> tentorium fixum erat <pc>.</pc> atque
+                per circuitum magno valle vallatum quem Rex dum acriter expugnaret et fortiter inuadens insisteret <pc>.</pc> quidam suorum ueniens hoc ei nunciauit <pc>.</pc> 
+                Noueris domini mi Rex quam interim dum su hic pugnas <rs type="definir">Sarracenorum</rs> insidia tua <rs type="definir">Maurum</rs> reliquit et ab eius
+                tentorio discessit <pc>.</pc> festinus ergo cum suis qui secum aderant <pc>.</pc> ad <rs type="definir">Sarracenorum</rs> qui <placeName>Castro</placeName> sua inuaserunt accessit <pc>.</pc> multos que
+                ex eis intercited a castri fortiter expulit <pc>.</pc> Ibi quidem multo corruerunt <rs type="definir">Christianorum</rs> <pc>.</pc> qui remanserant congregati sunt ad regem <pc>.</pc> Rex autem plagatus lancia 
+                cum nimium sitiret propter fluxum sanguinis decurrentis a plaga <pc>.</pc> uice aqual propinauerunt ei uinum qui aquam non inuenerunt <pc>.</pc> Vnde syncopin passus <pc>.</pc> cum his qui secum aderent 
+                reuersus est <rs type="definir">Cauriam</rs><rs type="definir">Sarraceni</rs> quoque reuersi sunt vnus quisque ad sua loca<pc>.</pc></p>
+            <pb n="313v"/>
+            <p><date when="1129">era 1129</date> 8º calendas septembris obijt <rs type="estatuto" subtype="alvazil">Aluaris</rs> domus <rs type="pessoa">Sesnandus</rs><pc>.</pc></p>
+            <p><date when="1131">Era 1131</date> 2º calendas Maij Sabbatho domus <rs type="estatuto" subtype="rei">Rex</rs> <rs type="pessoa">Aldefonsus</rs> cepit <placeName>Ciuitas
+                Santarem</placeName> <date dur="P28Y6M">anno Regni sui 28 <pc>.</pc> menses <pc>.</pc> 6<pc>.</pc> </date>die mensis et in eodem Hebdomada pridie .
+                nonas Maij feria 5 <pc>.</pc> cepit <placeName>Vlisbona</placeName> . Post tertias autem die <pc>.</pc> 8º<pc>.</pc> Idus May cepit <placeName>Sintram</placeName> proposuit que eis generum suum 
+                <rs type="estatuto" subtype="conde">Cometem</rs> domnus <rs type="pessoa">Reymundum</rs><rs type="parentesco" subtype="genro">maritum filiae</rs> sua domna <rs type="pessoa">Vrraca</rs> et sub manu eius 
+                <rs type="pessoa">Suarium Menendi</rs> ipse autem <rs type="estatuto" subtype="rei">Rex</rs> de <placeName>Toletum</placeName>.</p>
+            <p><date when="1147">Era 1147</date> <pc>.</pc> 3º <pc>.</pc> calendas Julij Obijt <rs type="estatuto" subtype="rei">Rex</rs> Donnus <rs type="pessoa">Alfonsus</rs> <rs type="estatuto" subtype="rei">regis</rs> Domini
+                <rs type="pessoa">Fernandi</rs>  <rs type="parentesco" subtype="filho">filius</rs><pc>.</pc></p>
+            <p><date when="1147">Era 1147</date> <pc>.</pc> mens [sic] Julio iterum capta fuit <placeName>Sintra</placeName> a <rs type="estatuto" subtype="conde">Comite</rs> Domno <rs type="pessoa">Henrico</rs> 
+                <rs type="parentesco" subtype="genro">genero</rs> domni <rs type="pessoa">Alfonsi</rs> <rs type="estatuto" subtype="rei">Regis</rs> <rs type="parentesco" subtype="genro">marito filiae</rs> sua 
+                <rs type="estatuto" subtype="rainha">Regina</rs> Domina <rs type="pessoa">Taresia</rs> audientes enim <rs type="definir">Sarraceni</rs> mortem <rs type="estatuto" subtype="rei">regis</rs> 
+                Domnus caperunt rebellare<pc>.</pc></p>
+            <p><date when="1148">Era 1148</date> <pc>.</pc> factum est Magnum infortunium supra <rs type="definir">Christianos</rs> qui ibant ad <placeName>Sanctarem</placeName> in Locco que dicitur <placeName>Vatalandi Dum</placeName>
+                enim uellent ibi <rs type="definir">Christianis</rs> figere tentoria <pc>.</pc> et requiescere cum subito ex improuito multitudo <rs type="definir">Sarracenorum</rs> et <rs type="definir">Moabitarum</rs> et <rs type="definir">Arabum</rs> 
+                audito numero eorum venerunt super eos repente et imparatos eos inuenientes exijs plurimos ibique mortuus fuit <rs type="pessoa">suaris Fromarigis</rs> <rs type="parentesco" subtype="pai">patri</rs> domini <rs type="pessoa">Nuno
+                    Suariz</rs> que erat Dux Super eos et <rs type="pessoa">Mido Cresconis</rs> <rs type="parentesco" subtype="pai">pater</rs> domino <rs type="pessoa">Joannis Mendiz</rs><pc>.</pc></p>
+            <p><date when="1149">Era 1149</date> <pc>.</pc> <rs type="estatuto" subtype="rei">Rex</rs> cepit <placeName>Sanctaren</placeName> <pc>.</pc> 7º calendas <pc>.</pc> Junij<pc>.</pc></p>
+            <p><date when="1151">Era 1151</date> natus fuit <rs type="estatuto" subtype="infante">jnfans</rs> <rs type="pessoa">Alfonsus</rs> <rs type="estatuto" subtype="conde">Comitis</rs> <rs type="pessoa">Henrici</rs> et 
+                <rs type="estatuto" subtype="rainha">Regina</rs> Domna <rs type="pessoa">Teresia</rs> <rs type="parentesco" subtype="filha">filiae</rs> <rs type="estatuto" subtype="rei">Regis</rs> <rs>Domnis</rs> <rs type="pessoa">Alfonsis</rs> 
+                <rs type="parentesco" subtype="neto">nepos</rs><pc>.</pc></p>
+        </body>
+    </text>
+</TEI>
