@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+          <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div> 
+            <p n="1">Antequam <title>donnus</title> <persName>pelagius</persName> regnaret. sarreceni regnauerunt  in <placeName>ispaniam</placeName> anni .ve.</p> 
+            <p n="2">Donnus <persName>pelagius</persName> regnauit . <date dur="P10Y"> annos xª</date> . viiijem.</p>
+            <p n="3"><date when="0987" >In era. mª. xxª. vª. </date> accepit <persName>almanzur</persName> <placeName>colimbriam</placeName> . iiijto . <dataSpec>kalendas</dataSpec> iulij .
+         In era . mª . xxª . viijª . Accepit almanzur montem maiorem.</p>
+         In era . mª Lxª . vª . Fuerat presa ciuitas lamecos . iijº . kalendas decembris . In die sancti saturnim . premanus fernandi regis .
+         In era . mª . Lxª. vi . presa fuit ciuitas uiseu . viijto . kalendas augusti ./ [fol. 2v] In die sancti cucufatj premanus fernandi regis .
+         In era . mª . cª . ij. presa fuit ciuitas colimbria . viiijem . kalendas augustj die fram . vi . premanus fernandi regis .
+         In era . mª. cª . xxª. ijª. presa fuit ciuitas toledo mense iulio . a rege ildefonso filio fernandi regis .
+         </div>
+         
+  </text>
+</TEI>
