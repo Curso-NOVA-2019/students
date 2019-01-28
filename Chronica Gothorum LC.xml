@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
@@ -34,12 +34,13 @@
    </teiHeader>
    <text>
       <body>
+         <div>
          <pb n="1r"/>
-         <p> E<choice> <am>ª</am> <ex>ra</ex> </choice> <date when="0319"> ccc xix </date> igressi sunt <rs type="definir">goti</rs> de terra sua . </p>
-         <p> E<choice> <am>ª</am> <ex>ra</ex> </choice><pc>.</pc> <date when="0366">ccc lx vj </date><pc>.</pc> igressi sunt <placeName>Hispaniam</placeName> et
+         <p n="2"> E<choice> <am>ª</am> <ex>ra</ex> </choice> <date when="0319"> ccc xix </date> igressi sunt <rs type="definir">goti</rs> de terra sua . </p>
+         <p n="1"> E<choice> <am>ª</am> <ex>ra</ex> </choice><pc>.</pc> <date when="0366">ccc lx vj </date><pc>.</pc> igressi sunt <placeName>Hispaniam</placeName> et
             regnauerunt íbí annis <date dur="P283Y"> cc. lxxxº. iij<pc>.</pc></date> De terra autem sua perueníunt ad <placeName>hyspaníam</placeName> per <date dur="P17Y">xvij
             annos</date>.</p>
-         <p> E<choice> <am>ª</am> <ex>ra</ex>  </choice> <pc>.</pc> <date when="0749"> dcc xL viiijº</date>  <rs type="definir"> sarraçeni </rs>
+         <p n="3"> E<choice> <am>ª</am> <ex>ra</ex>  </choice> <pc>.</pc> <date when="0749"> dcc xL viiijº</date>  <rs type="definir"> sarraçeni </rs>
             <placeName>hyspaníam</placeName> adepti sunt regnant <rs type="pessoa">Roderíco</rs>  atequam dominus <rs type="pessoa"> pelagíus </rs> regnaret .
             <rs type="definir">sarraceni</rs> regnauerunt <placeName>hyspaníam</placeName> – <date dur="P5Y"> annis v. </date> - </p>
          <p> E<choice> <am>ª</am> <ex>ra</ex></choice><pc>.</pc> <date when="0754">dcc <pc>.</pc> liiij </date> <rs type="pessoa">pelagíus fafilani </rs> <rs type="estatuto" subtype="duque">ducis</rs> <rs type="parentesco" subtype="filho"> filius</rs> regni <date dur="P18Y">annis xviiijº </date>  </p>
@@ -115,6 +116,7 @@
          <p><choice> <am>Eª</am> <ex>Era</ex> </choice> <pc>.</pc> <date when="1148">M<pc>.</pc> c <pc>.</pc> xL <pc>.</pc> viijº <pc>.</pc></date> <rs type="estatuto" subtype="rei">Rex</rs> <rs type="pessoa">cirus</rs> cepit <placeName type="cidade">sanctaren</placeName> <pc>.</pc> vij <pc>.</pc> kalendas Iunij. </p>
          <p><choice> <am>Eª</am> <ex>Era</ex> </choice> <pc>.</pc> <date when="1148">M<pc>.</pc> c<pc>.</pc> xL <pc>.</pc> viijº <pc>.</pc></date> natus fuit infans Alfonsus <pc>.</pc> <rs type="estatuto" subtype="conde">comitis</rs> <rs type="pessoa">henrrici</rs> et <rs type="estatuto" subtype="rainha">Regine</rs> donne <rs type="pessoa">tarasie</rs> <rs type="parentesco" subtype="filho">filius</rs> <pc>.</pc> <rs type="estatuto" subtype="rei">regis</rs> donni <rs type="pessoa">Alfonsi</rs> 
             <rs type="parentesco" subtype="neto">nepos</rs> <pc>.</pc></p>
+         </div>
       </body>
    </text>
 </TEI>

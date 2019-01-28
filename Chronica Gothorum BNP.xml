@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
@@ -34,13 +34,14 @@
     </teiHeader>
     <text>
         <body>
+            <div>
             <pb n="311"/>
-            <p><date when="0348">Era ccc <pc>.</pc> xL. viiij</date> <pc>.</pc> egressi sunt <rs type="definir">
+            <p n="1"><date when="0348">Era ccc <pc>.</pc> xL. viiij</date> <pc>.</pc> egressi sunt <rs type="definir">
                 gotti</rs> de terra sua<pc>.</pc></p>
-            <p><date when="0366">Era ccc<pc>.</pc> Lx<pc>.</pc> vj<pc>.</pc></date> ingressi sunt <placeName>Hispaniam</placeName> et regnauerunt ibi <date dur="P388Y">annis <pc>.</pc> ccc<pc>.</pc>
+            <p n="2"><date when="0366">Era ccc<pc>.</pc> Lx<pc>.</pc> vj<pc>.</pc></date> ingressi sunt <placeName>Hispaniam</placeName> et regnauerunt ibi <date dur="P388Y">annis <pc>.</pc> ccc<pc>.</pc>
                 Lxxx<pc>.</pc> uij<pc>.</pc></date> de terra antem sua peruenerunt ad <placeName>Hispaniam</placeName> per<date dur="P17Y"> 17
                     annos</date><pc>.</pc></p>
-            <p>Era <date when="0730">septingentesima trigessima</date> alias e <date when="0718">D<pc>.</pc> CC<pc>.</pc> X<pc>.</pc>viiij</date>
+            <p n="3">Era <date when="0730">septingentesima trigessima</date> alias e <date when="0718">D<pc>.</pc> CC<pc>.</pc> X<pc>.</pc>viiij</date>
                 expulsi sunt de <placeName>Regno Hispania</placeName> regnante <rs type="pessoa"><rs type="estatuto" subtype="rei">Vuitiza</rs></rs><pc>.</pc></p>
             <p><date when="0749">Era 749</date> e <pc>.</pc><date when="0750">DCC<pc>.</pc> L<pc>.</pc></date> <rs type="definir">Sarraceni</rs> <placeName>Hispaniam</placeName> adepti sunt
                 regnante <rs type="pessoa">Rodericu</rs> antequam dominus <rs type="pessoa">Pelagius</rs> regnaret <rs type="definir">Sarracceni</rs> <placeName>Hispaniam</placeName> obtinuit
@@ -167,6 +168,7 @@
             <p><date when="1151">Era 1151</date> natus fuit <rs type="estatuto" subtype="infante">jnfans</rs> <rs type="pessoa">Alfonsus</rs> <rs type="estatuto" subtype="conde">Comitis</rs> <rs type="pessoa">Henrici</rs> et 
                 <rs type="estatuto" subtype="rainha">Regina</rs> Domna <rs type="pessoa">Teresia</rs> <rs type="parentesco" subtype="filha">filiae</rs> <rs type="estatuto" subtype="rei">Regis</rs> <rs>Domnis</rs> <rs type="pessoa">Alfonsis</rs> 
                 <rs type="parentesco" subtype="neto">nepos</rs><pc>.</pc></p>
+            </div>
         </body>
     </text>
 </TEI>
