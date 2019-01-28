@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Exposição da Regra de S. Agostinho em Português</title>
+            <author>Hugo de S. Victor (atr.)</author>
+            <editor>Gilberto Coralejo Moiteiro</editor>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>Instituto de Estudos Medievais</distributor>
+            <address>
+               <addrLine>Avenida de Berna, Lisboa, Portugal</addrLine>
+            </address>
+            <availability>
+               <p>Freely available on a non-commercial basis.</p>
+            </availability>
+            <date when="2019">2019</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>Portugal</country>
+                  <settlement>Lisboa</settlement>
+                  <repository>Biblioteca Nacional de Portugal</repository>
+                  <collection>Livros Iluminados</collection>
+                  <idno>IL 152, fls. 96r-212r</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy>
+               <bibl>Esperança Cardeira - Entre o Português Arcaico e o Português Clássico. Lisboa:
+                  Imprensa Nacional-Casa da Moeda, pp. 101-112.</bibl>
+               <category xml:id="h.1">
+                  <catDesc>Hiato na desinência de palavra: -eo; -ea.</catDesc>
+                  <catDesc>Iode na desinência de palavra: -eio; -eia.</catDesc>
+               </category>
+            </taxonomy>
+            <taxonomy>
+               <bibl>Esperança Cardeira - Entre o Português Aracaico e o Português Clássico. Lisboa:
+                  Imprensa Nacional-Casa da Moeda, pp. 175-201.</bibl>
+               <category xml:id="h.2">
+                  <catDesc>-D- intervocálico na segunda pessoa plural: forma plena.</catDesc>
+                  <catDesc>-D- intervocálico na segunda pessoa plural: forma sincopada.</catDesc>
+               </category>
+            </taxonomy>
+            <taxonomy>
+               <bibl>Esperança Cardeira - Entre o Português Aracaico e o Português Clássico. Lisboa:
+                  Imprensa Nacional-Casa da Moeda, pp. 203-219.</bibl>
+               <category xml:id="h.3">
+                  <catDesc>Particípio em -UDO.</catDesc>
+                  <catDesc>Particípio em -IDO.</catDesc>
+               </category>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="96r"/>
+         <ab><hi rend="red">¶ Aqui se começa ho</hi> liuro que contẽ em si O teisto da Regra de San
+            agustinho per latim e per lingoajem : e a esposiçam della soomente per lingoajem . E he
+            obra muyto proueitosa pera todos religiosos ou mõjes . ou Conigos regrantes . E ho
+            titollo diz assi .</ab>
+
+         <div type="chapter" n="1">
+            <ab><hi rend="red">Incipit regula beati agustini episcopi . Quer dizer .</hi></ab>
+
+            <ab><hi rend="red">¶</hi> Comeca sse a Regra : de sancto Agostinho bispo .</ab>
+
+            <ab><hi rend="red">¶</hi> Onde este titollo tem duas partes . e ha primeira he esta .s.
+               começa sse a regra . E a segunda he esta .s. de Sancto agostinho bispo .</ab>
+
+            <ab><hi rend="red">¶</hi> Açerca da primeira parte do titollo he de saber que estes <pb
+                  n="96v"/> preçeptos e cousas escriptas adiante em este trautado : som dictos regra
+               . porque em elles nos he demostrado : modo e regra de uiuer .</ab>
+
+            <ab><hi rend="red">¶</hi> E ainda este trautado he chamado regra . por tal que nos
+               emsine : e nos rega dereitamente .</ab>
+
+            <ab><hi rend="red">¶</hi> Onde bem assi como hos mestres artifiçiaaes assi como
+               carpenteiros ou pedreiros tem Regras pellas quaaes se regem nas cousas que ham de
+               fazer e pella regra acham quando erram e como os paaos ou as pedras som tortas ou mal
+               lauradas . Bem assi hos conigos regrantes ou religiosos que escolherẽ de viuer
+               segundo esta regra deuẽ esguardar as exposiçooes e declaraçooes della e segundo ella
+               deuẽ fazer todos seus feictos . E desi per ella conheçeram seus defeictos : e se vam
+               tortos em suas obras ou dereictos segundo dicto he da regra dos meestres e offiçiaaes
+               .</ab>
+
+            <ab><hi rend="red">¶</hi> Onde he de notar que aquello a que nos chamamos regra hos
+               gregos chamã canõ . Onde deste nomẽ canõ e deste nomẽ regra som dictos coonigos
+               regrantes aquelles que som constituidos no moesteiro e viuẽ segundo a<note>Na margem
+                  de pé, lê-se: "¶Vire cinquo folhas adiãte ¶¶ Regra :.</note>
+               <pb n="102r"/> Regra e ordenaçooes dos sanctos padres .</ab>
+
+            <ab><hi rend="red">¶</hi> Açerca da segunda parte do titollo que diz de sancto agostinho
+               bispo he de notar que em esta parte nos he demostrada esta regra ser mais excelente
+               que as outras polla exçelẽçia daquel que ha fez que he sancto agostinho : do qual
+               logo pooe duas exçellençias .s. que he sancto e que foy bispo : E nõ embargante estas
+               duas exçellençias que teẽ sobre hos que fezerõ has outras Regras . o grande padre
+               agustinho . mas adiante outras muitas o qual no começo emsina a seus filhos dizendo
+               em esta guissa .</ab>
+         </div>
+         <div type="chapter" n="2">
+            <ab><hi rend="red"><hi rend="dropcap">A</hi>nte <am>omia</am><ex>omnia</ex>
+                  <am>fres</am><ex>fratres</ex> karissimi diligatur <am>ds</am><ex>deus</ex> :
+                  deinde <am>p</am><ex>pro</ex>xi<am>m9</am><ex>mus</ex>
+                  <am>qia</am><ex>quia</ex> ista precepta sunt
+                     <am>pi</am><ex>pri</ex>ncipa<am>lr</am><ex>liter</ex> no<am>b</am><ex>bis</ex>
+                  data .</hi></ab>
+
+            <ab><hi rend="red">¶</hi> Quer dizer .</ab>
+
+            <ab><hi rend="red">¶</hi> Ante todas as cousas Jirmaas mujto amadas seia
+                  <am>ds</am><ex>deus</ex> amado e <pb n="102v"/> desi o proximo porque estes
+               mandamẽtos som prinçipalmente dados a nos .</ab>
+
+            <ab><hi rend="red">¶</hi> Por quanto hos mandados de <am>ds</am><ex>deus</ex> nõ som de
+               desãparar pollos mandamentos dos homẽs ãte sobre elles deuem ser todos hos outros
+               fundados porque sem elles hos outros som nĵhuua cousa . Porẽ sancto agustinho aos
+               seus mandamentos antepos hos mandados de <am>ds</am><ex>deus</ex> . demostrando que
+               elles deuẽ ser mayormente guardados quãdo diz .</ab>
+
+            <ab><hi rend="red">¶</hi> Por<am>q</am><ex>que</ex> estes mandados som a nos dados
+               prinçipalmente .</ab>
+
+            <ab><hi rend="red">¶</hi> Mas porque segũdo diz paulo : <q>ho comprimento da ley he o
+                  amor de <am>ds</am><ex>deus</ex> e do proximo .</q> E porquanto deste[s] dous
+               mandados depende todos os outros mãdados e aĩda todas as
+               s<am>ci</am><ex>cri</ex>pturas e <am>p</am><ex>pro</ex>phetas segũdo
+                  <am>q</am><ex>que</ex> dise iesu <am>xpo</am><ex>christo</ex> . Porem nõ poõe san
+               agustinho aqui todos os outros mãdados por nõ fazer proluxidade . Mas tam soomẽte
+               poõe a<am>q</am><ex>que</ex>lles nos quaaes todos hos outros som guardados e
+               ẽçarrados .s. em amar a deus e ho <am>p</am><ex>pro</ex>ximo . Mas logo poõe elle os
+               seus mandamẽtos ẽ este outro capitollo que segue e diz assi .</ab>
+            <pb n="103r"/>
+         </div>
+         <div type="chapter" n="3">
+            <ab><hi rend="red"><hi rend="dropcap">H</hi>ec igitur sũt <am>q</am><ex>que</ex> ut
+                     ob<am>s</am><ex>ser</ex>uetis precipi<am>m9</am><ex>mus</ex> ĩ monasterio
+                  constituti .</hi></ab>
+
+            <ab><hi rend="red">¶</hi> Quer dizer .</ab>
+
+            <ab><hi rend="red">¶</hi> Estas som has cousas que mandamos guardar a uos que sodes
+               ajuntadas no moesteiro . Por esta Razam nos som leidos hos preceptos diuinaaes por
+               tal que nos leẽdo hos entendamos e entendendo os <am>q</am><ex>que</ex> hos cũpramos
+                  <am>p</am><ex>per</ex> obra . Porque se hos entendessemos e hos nom
+                  com<am>pi</am><ex>pri</ex>ssemos temedoira seria a nos aquella sentença do juiz
+                  <am>ihu</am><ex>ihesu</ex>
+               <am>xpo</am><ex>christo</ex>
+               <am>q</am><ex>que</ex> diz .</ab>
+
+            <ab><hi rend="red">¶</hi>
+               <q>O seruo que sabe a vontade do seu senhor e a nõ faz seraa ferido per muitas chagas
+                  .</q></ab>
+
+            <ab><hi rend="red">¶</hi> E de mais que diz Sam Paullo em outro lugar .</ab>
+
+            <ab><hi rend="red">¶</hi>
+               <q>Nom seram iustificados os que ouuẽ a ley : mas aquelles que a cũprem .</q></ab>
+
+            <ab><hi rend="red">¶</hi> E por esta razom a nos cumpre <am>q</am><ex>que</ex> ouçamos
+               os sanctos preceptos do piedoso <am>ds</am><ex>deus</ex> e dos nosos padres e
+               mayormẽte de sancto Agustinho e que nos relembremos dos seus mãdados pera hos avermos
+               de fazer .</ab>
+
+            <ab><hi rend="red">¶</hi> Por<am>q</am><ex>que</ex> segundo diz ho apostollo santiago em
+               sua <pb n="103v"/> . canonica . Se alguũ esguardar na ley da liberdade perfeicta .s.
+               do euangelho e esteuer firme em ella e nom for feicto ouujdor
+                  es<am>q</am><ex>que</ex>çidiço mas fazedor da obra este tal seraa bẽto em seus
+               feictos . Ca se comprira nelle ho que he scripto no euangelho que diz .</ab>
+
+            <ab><hi rend="red">¶</hi>
+               <q>Bẽtos som hos que <am>oum</am><ex>ouuem</ex> a palabra de <am>ds</am><ex>deus</ex>
+                  e a guardam .</q></ab>
+
+            <ab><hi rend="red">¶</hi> E porem humildosamente esguardemos em estes mandados que sõ
+               encomendados a nos outras <am>q</am><ex>que</ex> somos ajuntadas no moesteiro . das
+               quaaes se segue logo e diz assi .</ab>
+         </div>
+         <div type="chapter" n="4">
+            <ab><hi rend="red"><hi rend="dropcap">P</hi>rimũ . <am>p</am><ex>pro</ex>pter
+                     <am>qd</am><ex>quod</ex> in vnũ estis cõgregati ut vnanimes habitetis ĩ domo et
+                  sit vo<am>b</am><ex>bis</ex> anima vna et cor vnũ in deo .</hi></ab>
+
+            <ab><hi rend="red">¶</hi> Quer dizer .</ab>
+
+            <ab><hi rend="red">¶</hi>
+               <am>Pi</am><ex>Pri</ex>meiramente por<am>q</am><ex>que</ex> sodes ajuntadas en huũa
+               companhia cõuen uos que todas moredes de huũa vontade em ho moesteiro e seia a vos
+               huũa alma e hũ <pb n="104r"/> coraçõ em <am>ds</am><ex>deus</ex> .</ab>
+
+            <ab><hi rend="red">¶</hi> Polla qual Rezam he a nos feicta em esta regra a primeira
+               amoestaçam da vnidade e da comcordia em tãto <am>q</am><ex>que</ex> a concordia seia
+               em <am>ds</am><ex>deus</ex> porque via he a concordia pera fazer peccado e aquella he
+               booa concordia que he pera fazer bem e pera se<am>gi</am><ex>gui</ex>r a justiça e a
+               santidade e pera seruir a <am>ds</am><ex>deus</ex> .</ab>
+
+            <ab><hi rend="red">¶</hi> E esto he ho porque somos ajuntados em huũ logar .s. porque
+               ajamos todas huũ coraçam e huũ <am>spu</am><ex>spiritu</ex> no seruico de
+                  <am>ds</am><ex>deus</ex> .</ab>
+
+            <ab><hi rend="red">¶</hi> E por ẽ nos emcomenda sancto agustinho que moremos em nossa
+               cassa em huũ coraçam e seia a nos huũa alma e huũ coraçam em <am>ds</am><ex>deus</ex>
+               .</ab>
+
+            <ab><hi rend="red">¶</hi> E çertamente a nos conuẽ que pois que corporalmente todas
+               somos juntas em huũ moesteiro que <am>spu</am><ex>spiritu</ex>almente moremos todas
+               de cõsum ; porque nõ nos aproueitaria nada sermos ajuntadas em huũa cassa e sermos
+               desanjuntadas e departidas nas vontades .</ab>
+
+            <ab><hi rend="red">¶</hi> Porque çertamente mais espera <am>ds</am><ex>deus</ex> de nos
+               ajuntamento e vnidade do noso coraçõ . que ho ajuntamẽto e vnidade do lugar ẽ que
+               estamos .</ab>
+
+            <ab><hi rend="red">¶</hi> E pois que somos em huã cassa mujtas molheres de desuairados
+                  costu<pb n="104v"/>mes e de desuariados coracooes e de desuariadas almas conuen
+               nos que todas estas cousas seiam aiuntadas em huũ per obra e <am>p</am><ex>per</ex>
+               booa entençam e amor em deus .</ab>
+
+            <ab><hi rend="red">¶</hi> E por esta Rezam deuemos todas ser em ho
+                  moes<am>to</am><ex>teiro</ex> de huũ coraçam e de huũa võtade . por tal que
+               seruamos a <am>ds</am><ex>deus</ex> e ho amemos de todo coraçam e de toda alma e ho
+               noso proximo como nos meesmos . Polla quall Razam a nos he muy neçessaria a uirtude
+               da cõcordia : a qual ligeiramente se pode auer se se desuestir o coonigo ou monja
+               quando vier a ho moesteiro da sua propria vontade e seguir aquello que diz no
+               euangelho nosso meestre <am>ihu</am><ex>ihesu</ex>
+               <am>xpo</am><ex>christo</ex> . <q>Nom vim eu fazer a minha vontade : mas a do meu
+                  padre que he ẽ hos çeeos .</q></ab>
+
+            <ab><hi rend="red">¶</hi> E ainda diz em outro lugar .</ab>
+
+            <ab><hi rend="red">¶</hi>
+               <q>Nom como eu <am>q</am><ex>que</ex>ro mais como a ti apraz</q> E aquesta he a cousa
+               que mais asinha traz o monje aa comcordia .s. leixar de fazer a sua vontade e fazer a
+               alhea em bem .</ab>
+         </div>
+      </body>
+   </text>
+</TEI>
