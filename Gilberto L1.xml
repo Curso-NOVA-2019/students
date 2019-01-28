@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Exposição da Regra de S. Agostinho em Português</title>
+            <author>Hugo de S. Victor (atr.)</author>
+            <editor>Gilberto Coralejo Moiteiro</editor>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>Instituto de Estudos Medievais</distributor>
+            <address>
+               <addrLine>Avenida de Berna, Lisboa, Portugal</addrLine>
+            </address>
+            <availability>
+               <p>Freely available on a non-commercial basis.</p>
+            </availability>
+            <date when="2019">2019</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>Portugal</country>
+                  <settlement>Lisboa</settlement>
+                  <repository>Biblioteca Nacional de Portugal</repository>
+                  <collection>Alcobacences</collection>
+                  <idno>ALC 74, fls. 1r-79r</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy>
+               <bibl>Esperança Cardeira - Entre o Português Arcaico e o Português Clássico. Lisboa:
+                  Imprensa Nacional-Casa da Moeda, pp. 101-112.</bibl>
+               <category xml:id="h.1">
+                  <catDesc>Hiato na desinência de palavra: -eo; -ea.</catDesc>
+                  <catDesc>Iode na desinência de palavra: -eio; -eia.</catDesc>
+               </category>
+            </taxonomy>
+            <taxonomy>
+               <bibl>Esperança Cardeira - Entre o Português Aracaico e o Português Clássico. Lisboa:
+                  Imprensa Nacional-Casa da Moeda, pp. 175-201.</bibl>
+               <category xml:id="h.2">
+                  <catDesc>-D- intervocálico na segunda pessoa plural: forma plena.</catDesc>
+                  <catDesc>-D- intervocálico na segunda pessoa plural: forma sincopada.</catDesc>
+               </category>
+            </taxonomy>
+            <taxonomy>
+               <bibl>Esperança Cardeira - Entre o Português Aracaico e o Português Clássico. Lisboa:
+                  Imprensa Nacional-Casa da Moeda, pp. 203-219.</bibl>
+               <category xml:id="h.3">
+                  <catDesc>Particípio em -UDO.</catDesc>
+                  <catDesc>Particípio em -IDO.</catDesc>
+               </category>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="1r"/>
+         <ab>. <am>Jhs</am><ex>Jhesus</ex> . <am>Vi</am><ex>Vir</ex>gem <am>ma</am><ex>maria</ex>
+            .</ab>
+
+         <ab>Jnçipit Regula . Beati agustiny <am>Cp</am><ex>Capitulo</ex> i</ab>
+
+         <div type="chapter" n="1">
+            <ab><hi rend="dropcap">E</hi>m Nome de <am>ds</am><ex>deus</ex> amẽ .</ab>
+
+            <ab>¶ E de <am>Scta</am><ex>Sancta</ex>
+               <am>ma</am><ex>maria</ex> sua madre Aquy se começa a rregla de sancto
+                  a<am>g</am><ex>gus</ex>tinho e a exposiçom del[a] <am>p</am><ex>per</ex> linguagẽ
+               . tam bem do texto como da <am>go</am><ex>gro</ex>sa .</ab>
+
+            <ab>¶ E no começo da grosa diz asi .</ab>
+
+            <ab>Por em som chamados rregla aquestes <am>p</am><ex>pre</ex>ceptos . adiante
+                  s<am>ci</am><ex>cri</ex>ptos .</ab>
+
+            <ab>¶ Porque nos he em elles ex<am>p</am><ex>pre</ex>so e declarado modo e rregla de
+               uyuer .</ab>
+
+            <ab>¶ Aynda he chamada rregla . por tal <am>q</am><ex>que</ex> nos rreJa e ensyne
+               dereytamente .</ab>
+
+            <ab>¶ E a<am>q</am><ex>que</ex>llo que nos chama<am>m</am><ex>mos</ex> rregla . os
+                  <am>g</am><ex>gre</ex>gos chamõ canõ .</ab>
+
+            <ab>¶ E da<am>q</am><ex>que</ex>ste nome <am>g</am><ex>gre</ex>go canon e de rregla .
+               som chamados coonygos rreglantes a<am>q</am><ex>que</ex>lles que no
+                  moes<am>to</am><ex>teiro</ex> som <am>9</am><ex>con</ex>stituydos . segundo os
+                  <am>p</am><ex>pre</ex>ceptos da rregla dos sanctos padres .</ab>
+
+            <ab>¶ E os <am>q</am><ex>que</ex> canonycamente uyuem se<am>gdo</am><ex>gundo</ex> a
+               rregla dos <am>aplos</am><ex>apostolos</ex> . Aos quaaes a rregla da em no começo .
+               modo e ma<am>na</am><ex>neira</ex> de uyuer .</ab>
+
+            <ab>¶ Ensynando os diz asy .</ab>
+         </div>
+         <div type="chapter" n="2">
+            <ab><hi rend="underline">¶ Hec <am>g</am><ex>gitur</ex> sũt . qui ut
+                     ob<am>s</am><ex>ser</ex>uetis precipimus in monasterio
+                  <am>9</am><ex>con</ex>stituti .</hi></ab>
+
+            <ab>E esto <am>q</am><ex>que</ex>r dizer .</ab>
+
+            <ab>¶ Estas som as cousas <am>q</am><ex>que</ex> uos mandamos guardar . a uos
+                  <am>q</am><ex>que</ex> no moes<am>to</am><ex>teiro</ex>
+               <am>9</am><ex>con</ex>sti[.]uydos sodes .</ab>
+
+            <ab>¶ E Por esta rrazom som <del rend="strikethrough">leuados</del> [...]os os
+                  <am>p</am><ex>pre</ex>ceptos dyuynos [......] que nos leen[..] os
+                  entenda<am>m9</am><ex>mos</ex> . e entendendo o[.] <am>q</am><ex>que</ex> os
+                  cõpra<am>m9</am><ex>mos</ex> per ob[.]a .</ab>
+
+            <ab>¶ Porque se os entendessemos e os non <am>9pissem9</am><ex>conprissemos</ex> .</ab>
+
+            <ab>¶ Temedoyra serya a nos aquella <am>snça</am><ex>sentẽça</ex> [......] .</ab>
+
+            <ab>¶ O <am>s</am><ex>ser</ex>uo que sabe a uoontade do seu se[...] [...]om faz . seera
+               ferydo <am>p</am><ex>per</ex> muytas chagas .<pb n="1v"/> E de mays diz sam paulo em
+               outro lugar .</ab>
+
+            <ab>¶ Nom <am>s</am><ex>ser</ex>om iustifficados os que ouuẽ a ley .</ab>
+
+            <ab>¶ Mas see lo am aquelles que a <am>9p</am><ex>conpre</ex>m .</ab>
+
+            <ab>¶ E Por esta rrazõ a nos con<am>p</am><ex>pre</ex> . que ouçamos os
+                  <am>scos</am><ex>sanctos</ex>
+               <am>p</am><ex>pre</ex>ceptos do pyadoso <am>ds</am><ex>deus</ex> . e que nos
+               renenbremos dos se<am>9</am><ex>us</ex> mandados <am>p</am><ex>per</ex>a os
+                  a<am>u</am><ex>uer</ex>mos de fazer .</ab>
+
+            <ab>¶ E Porque <am>so</am><ex>segundo</ex> diz o <am>aplo</am><ex>apostolo</ex>
+               sanctyago .</ab>
+
+            <ab>¶ Se alguũ esguardar em na ley da lyberdade <am>p</am><ex>per</ex>fecta . e
+                  este<am>u</am><ex>uer</ex> firme em ella . e nõ for feyto ouuydor esqueeçido mas
+               feitor d’obra . est[e] a tal s<am/><ex>ser</ex>a beento em se<am>9</am><ex>us</ex>
+               feytos .</ab>
+
+            <ab>¶ E con<am>pi</am><ex>pri</ex>r se a ẽ elle o <am>q</am><ex>que</ex> he
+                  es<am>ci</am><ex>cri</ex>pto no euangelho . que diz .</ab>
+
+            <ab>¶ Beentos son aquelles que ouuem a palla<am>u</am><ex>ura</ex> de
+                  <am>ds</am><ex>deus</ex> e a guardã .</ab>
+
+            <ab>¶ E Por esta rrazom humildosamẽte esguarde<am>m9</am><ex>mos</ex> aquestas cousas .
+               que som encomendadas a nos outros que no moesteiro <am>9</am><ex>con</ex>stituydos
+               somos .</ab>
+
+            <ab>¶ Os quaaes mandados ensynando a nos dizem asy .</ab>
+         </div>
+         <div type="chapter" n="3">
+            <ab><hi rend="underline">¶ Primũ . <am>ppt</am><ex>propter</ex>
+                  <am>qd</am><ex>quod</ex> in unũ estis <am>9g</am><ex>congre</ex>gati . ut unanimes
+                  habitetis ĩ domo . et sit <am>ub</am><ex>uobis</ex>
+                  <am>aia</am><ex>anima</ex> una. et cor unũ in deo .</hi> Que quer dizer .</ab>
+
+            <ab>¶ <am>Pi</am><ex>Pri</ex>meiramente porque sodes aiuntados em hũa conpanhia .
+                  <am>9</am><ex>con</ex>uẽ uos que todos aiades hũa uoontade em uosso [...]ugar e
+               que todos seiades de hũa alma e de [...] coraçom em [...]</ab>
+
+            <ab>¶ Por a qual rrazom he a [......]ta esta rregla .</ab>
+
+            <ab>¶ A <am>pi</am><ex>pri</ex>meyra amoestaçõ da unydade e da
+               <am>9</am><ex>con</ex>cordya . em tanto que a cõcordia seia tal
+                  <am>q</am><ex>que</ex> seia em <am>ds</am><ex>deus</ex> . Porque maa he a
+               concordya [...] <am>p</am><ex>per</ex>a fazer pecado .</ab>
+
+            <ab>¶ E aquella he boa . que [...]<pb n="2r"/> bem e <am>ui</am><ex>uir</ex>tude e
+                  <am>p</am><ex>per</ex>a seguyr iustiça e <am>p</am><ex>per</ex>a
+                  <am>s</am><ex>ser</ex>uir a <am>ds</am><ex>deus</ex> .</ab>
+
+            <ab>¶ E esto he porque somos cõ<am>g</am><ex>gre</ex>gados e aiuntados ẽ hũũ .</ab>
+
+            <ab>¶ Por esso nos <am>9</am><ex>con</ex>uem . que aiamos todos hũũ coraçom e hũũ
+                  <am>espu</am><ex>espiritu</ex> em no <am>s</am><ex>ser</ex>uiço de
+                  <am>ds</am><ex>deus</ex> .</ab>
+
+            <ab>¶ E Por esta razom nos encomẽda que moremos em nossa casa em hũu coraçom . e que
+               seiamos hũa alma e huũ coraçom em <am>ds</am><ex>deus</ex> .</ab>
+
+            <ab>¶ E çertamente a nos <am>9</am><ex>con</ex>uem . sse corporalmẽte todos somos
+               aiuntados em hũũ . que <am>spualmte</am><ex>spiritualmente</ex> moremos todos em
+               sembra .</ab>
+
+            <ab>¶ Porque a nos nom aproueyta teermos todos hũa casa . e departirmos a desuayrada
+               uoontade .</ab>
+
+            <ab>¶ Porque çertamẽte mays es<am>p</am><ex>per</ex>a <am>ds</am><ex>deus</ex> de nos o
+               aJuntamento e unydade do nosso coraçom . que o aiunta<am>mto</am><ex>mento</ex> e
+               unydade do lugar em que estamos .</ab>
+
+            <ab>¶ E Poys somos em hũa casa muytos homẽẽs de desuayrados custumes e de desuayrados
+               coraçoões e de desuayradas almas .</ab>
+
+            <ab>¶ Conuem a nos . que todas estas cousas seiam juntas em huũ per obra e
+                  <am>p</am><ex>per</ex> boa teençom e amor em <am>ds</am><ex>deus</ex> .</ab>
+
+            <ab>¶ E Por esta rrazom deuemos todos seer em esta cousa de hũu coraçom e de hũa
+               uoontade . por tal que <am>s</am><ex>ser</ex>uamos a <am>ds</am><ex>deus</ex> . e
+                  <am>q</am><ex>que</ex> o amemos de todo coraçõ e de toda alma e forças . e o nosso
+               prouximo asy como a nos meesmos .</ab>
+
+            <ab>¶ Por a qual rrazom a nos he mũy neçessarya a <am>ui</am><ex>uir</ex>tude da
+               concordya .</ab>
+
+            <ab>¶ A qual sse pode auer . sse se desuystir o frade <del rend="strikethrough">ou
+                  coonygo</del> quando ueher ao <am>mo</am><ex>moesteiro</ex> da sua propya [sic]
+               uoontade . e seguyr aquello que diz no euangelho .</ab>
+
+            <ab>¶ <q>Nom vĩĵ eu <am>p</am><ex>per</ex>a fazer a mynha<pb n="2v"/> uoontade . mas a
+                  de meu pa<am>d</am><ex>dre</ex> que he em nos çeeos .</q></ab>
+
+            <ab>¶ E aynda diz em outro lugar .</ab>
+
+            <ab>¶ Nom como eu quero . mas como a ty <am>pz</am><ex>praz</ex> .</ab>
+
+            <ab>¶ E aquesta he a cousa que mays asinha traz o homẽ a concordya . .s. leixar de
+               seguyr e fazer a sua uoõtade e fa<am>z</am><ex>zer</ex> a alhea em bem .</ab>
+
+         </div>
+      </body>
+   </text>
+</TEI>
