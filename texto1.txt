@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head type="title"> Governo português prepara ‘Brexit’ sem acordo</head>
+            <head type="subtitle"><hi rend="bold"> Manter o máximo de direitos e regras como se
+                  houvesse acordo é o objetivo traçado por <persName>Augusto Santos Silva</persName>
+                  e <persName>Eduardo Cabrita</persName>. Ministros dos Negócios Estrangeiros e da
+                  Administração Interna querem proteger cidadãos das agruras de uma saída
+                  desordenada do Reino Unido da <orgName>UE</orgName>, mas avisam que futura relação
+                  não será tão benéfica.</hi></head>
+            <p n="1">Repetindo várias vezes que preferem que haja acordo e que até gostariam que o
+               Reino Unido continuasse na <orgName>UE</orgName>, os ministros prometeram, caso a
+               saída seja sem acordo, a manutenção plena dos direitos sociais e de residência
+               adquiridos até 29 de março próximo, data prevista do ‘Brexit’, bem como o
+               reconhecimento de títulos académicos e qualificações no caso das profissões cujo
+               exercício é regulamentado. Também anunciaram que os 27 Estados-membros que permanecem
+               na <orgName>UE</orgName> não irão exigir vistos aos britânicos.</p>
+            <p n="2"><q>“São decisões unilaterais”</q>, sublinhou <persName>Santos Silva</persName>,
+               que explicou que o trabalho preparatório decorre desde novembro. O ministro espera
+               reciprocidade por parte de Londres e diz que também haverá medidas dirigidas à
+               economia e às empresas, que serão apresentadas na próxima semana ao Conselho
+               Estratégico de Internacionalização da Economia e à Concertação Social.</p>
+            <p n="3">Os portugueses que já estejam no Reino Unido na data de saída da
+                  <orgName>EU</orgName> terão até <date when="2020-12-31">31 de dezembro de
+                  2020</date> para se registarem, em caso de saída sem acordo. São menos seis meses
+               do que na hipótese de haver acordo, mas ainda assim <q>“tempo suficiente”</q>,
+               segundo os ministros. Quem não tiver, na data marcada para o ‘Brexit’, os cinco anos
+               de estadia que garantem o direito de residência permanente poderá continuar a
+               acumular esse tempo até depois da saída britânica da <orgName>EU</orgName>.</p>
+            <p>Os serviços consulares em Londres e Manchester têm vindo a ser reforçados – os
+               recursos humanos subiram 25% desde o referendo de 2016 – e haverá uma linha
+               telefónica para resolver dúvidas e problemas ligados ao ‘Brexit’. Nos últimos cinco
+               anos a média anual de atos dos consulados lusos no Reino Unido subiu de 72 mil para
+               115 mil. Os dois consulados vão realizar 35 deslocações por todo o território
+               britânico, incluindo as ilhas do Canal (onde há muitos portugueses, mormente
+               madeirenses), para realizar as diligências sem necessidade de os cidadãos viajarem
+               para Londres ou Manchester. Para agilizar o trabalho dos consulados, será dispensada
+               a tradução de documentos em inglês, a validade do cartão de cidadão será aumentada de
+               cinco para dez anos para maiores de 25 anos e será disponibilizada informação aos
+               interessados no Portal Diplomático e nas redes sociais.</p>
+            <p>Mais britânicos querem vir para Portugal</p>
+            <p>Portugal não exigirá vistos a residentes nem visitantes oriundos do Reino Unido e
+               quer que o afluxo destes continue.</p>
+            <p>O ministro da Administração Interna afirma que em
+               2018 entraram 2,6 milhões de britânicos no nosso país e que vêm do Reino Unido 22%
+               dos que aterram em aeroportos portugueses (quase 90% no caso de Faro).</p>
+            <p>Após o‘Brexit’ haverá, prometeram Cabrita e Santos Silva, adaptações nos terminais para que a sua
+               entrada e saída se processe de forma expedita. No último ano, avançou o ministro,
+               cresceram os pedidos de residência, registo e mesmo de nacionalidade portuguesa por
+               parte de britânicos. O Governo preparou folhetos em inglês e português, além de
+               disponibilizar informação online para os britânicos residentes em Portugal. Estão
+               registados 22.431, mas a diplomacia britânica calcula que haja outros tantos por
+               registar. Santos Silva exortou-os a fazerem isso mesmo, tal como aos portugueses em
+               terras britânicas, de preferência antes de 29 de março. Das ligações aéreas à
+               prestação de cuidados de saúde, dizem Santos Silva e Cabrita, as medidas anunciadas
+               procuram garantir quase as mesmas condições de um ‘Brexit’ com acordo. São “decisões
+               unilaterais, mas pressupõem reciprocidade” por parte de Londres, explicou Santos
+               Silva, que não receia surpresas e para tal evoca declarações da primeira-ministra
+               Theresa May e documentos emitidos pelo Executivo britânico. A boa vontade mútua chega
+               aos direitos eleitorais. Cabrita assegurou que os britânicos recenseados em Portugal
+               (que são hoje 3192) continuarão a poder votar, havendo mesmo cerca de uma dezena que
+               foram eleitos nas últimas autárquicas, sobretudo para assembleias de freguesia, e que
+               poderão concluir o mandato até 2021, apesar de nesse ano já se prever que tenha
+               acontecido o ‘Brexit’ e passado o período transitório estipulado no acordo entre
+               Londres e Bruxelas. Não há relações bilaterais antes da saída Estes planos de
+               contingência, sublinhou o governante, são temporários, até que se definam os futuros
+               laços entre o Reino Unido e a UE e as relações bilaterais com os 27. Estas nunca
+               poderão, porém, ser tão benéficas como fazer parte da União. Além disso, “nenhum
+               Estado iniciará relações bilaterais” antes do ‘Brexit’, afirma Santos Silva.
+               Confiante em que o Parlamento britânico aprove o acordo entre Londres e Bruxelas na
+               votação da próxima terça-feira, pois “é o melhor cenário possível”, Santos Silva
+               admite que melhor só mesmo uma reversão do ‘Brexit’. “Não seria uma má notícia”,
+               respondeu aos jornalistas presentes, expressando também a disponibilidade de Lisboa
+               para aceitar o adiamento do ‘Brexit’ “se for pedido” pelos britânicos. O que está
+               fora de questão é reabrir negociações, mesmo que os deputados britânicos chumbem o
+               acordo. Santos Silva respondeu ao Expresso, em relação à possibilidade de Theresa May
+               apresentar várias vezes o acordo à Câmara dos Comuns, que “o que foi dito no Conselho
+               Europeu de 13 de dezembro” é mesmo a última palavra.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Chronica gothorum</title>
+            <author></author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher> </publisher>
+            <availability status="free">
+                 <p>Versão de consulta gratuita</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+              <witness xml:id="LibraryofCongress">
+                 <msDesc>
+                    <msIdentifier>
+                       <settlement>Washington</settlement>
+                       <repository>Library of Congress</repository>
+                       <idno>Manuscripts, Peter Force, Series X, container 2</idno>
+                       <msName>Coronica de los Reis de Portugal MS. Volume</msName>
+                    </msIdentifier>
+                 </msDesc>
+              </witness>            
+            </listWit>
+
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+         <pb n="1r"/>
+         <p n="2"> E<choice> <am>ª</am> <ex>ra</ex> </choice> <date when="0319"> ccc xix </date> igressi sunt <rs type="definir">goti</rs> de terra sua . </p>
+         <p n="1"> E<choice> <am>ª</am> <ex>ra</ex> </choice><pc>.</pc> <date when="0366">ccc lx vj </date><pc>.</pc> igressi sunt <placeName>Hispaniam</placeName> et
+            regnauerunt íbí annis <date dur="P283Y"> cc. lxxxº. iij<pc>.</pc></date> De terra autem sua perueníunt ad <placeName>hyspaníam</placeName> per <date dur="P17Y">xvij
+            annos</date>.</p>
+         <p n="3"> E<choice> <am>ª</am> <ex>ra</ex>  </choice> <pc>.</pc> <date when="0749"> dcc xL viiijº</date>  <rs type="definir"> sarraçeni </rs>
+            <placeName>hyspaníam</placeName> adepti sunt regnant <rs type="pessoa">Roderíco</rs>  atequam dominus <rs type="pessoa"> pelagíus </rs> regnaret .
+            <rs type="definir">sarraceni</rs> regnauerunt <placeName>hyspaníam</placeName> – <date dur="P5Y"> annis v. </date> - </p>
+         <p> E<choice> <am>ª</am> <ex>ra</ex></choice><pc>.</pc> <date when="0754">dcc <pc>.</pc> liiij </date> <rs type="pessoa">pelagíus fafilani </rs> <rs type="estatuto" subtype="duque">ducis</rs> <rs type="parentesco" subtype="filho"> filius</rs> regni <date dur="P18Y">annis xviiijº </date>  </p>
+         <p> E<choice> <am>ª</am> <ex>ra</ex></choice><pc>.</pc>  <date when="0763"> dcc lxx iij </date> <pc>.</pc> <rs type="pessoa"> fafilarus</rs> filíus eius regnauit <date dur="P2Y6M">ij annís et mensíbus vj </date></p>
+         <p> E<choice> <am>ª</am> <ex>ra</ex></choice> <date when="0776"> dcc <pc>.</pc> lxx vi </date> <rs type="pessoa"> Adefonsus </rs> <rs type="parentesco" subtype="filho"> filius</rs> <rs type="pessoa"> petri </rs> ducis regnis <date dur="P19Y"> annis xviiijº</date> </p>
+         <p> E<choice> <am>ª</am> <ex>ra</ex></choice> <date when="0765"> dcc lx<pc>.</pc> v<pc>.</pc></date> <rs type="pessoa">froíla </rs> <rs type="parentesco" subtype="filho"> filius</rs> eíus regnauit <date dur="P11Y3M">annis xi ac tribus mensibus </date>.</p>
+         <p> E<choice> <am>ª</am> <ex>ra</ex></choice> <date when="0806">dccc vj</date> <rs type="pessoa"> aurelíus</rs> consubrinus eius regnauit <date dur="P6Y6M">annis vj et mensibus sextus </date> </p>
+         <p> E<choice> <am>ª</am> <ex>ra</ex></choice> <date when="0812">dccc xij </date> <pc>.</pc> <rs type="pessoa">silo</rs> <pc>.</pc> regnauit <date dur="P9Y">annis viiij </date> et xo uitam finíuit .</p>
+         <p> E<choice> <am>ª</am> <ex>ra</ex></choice> <date when="0912">dcccc xxi</date> <rs type="pessoa">mauregatus</rs> regna <date dur="P6Y">annis vj</date> uitam que finiuit .</p>
+         <pb n="1v"/>
+         <p> E<choice> <am>ª</am> <ex>ra</ex></choice> <date when="0926">dcccc xx vj </date><pc>.</pc>  <rs type="pessoa">vermudus</rs> regnauit <date dur="P3Y">annis iij</date> hic ponte regnum dimisit et consubrinum
+            <rs type="pessoa">adefonsum</rs> quem <rs type="pessoa">mauregatus</rs> a regno expulerat regem fratrem . </p>
+         <p> E<choice> <am>ª</am> <ex>ra</ex></choice> <date when="0928">dccc xx viijº</date> <rs type="pessoa">adefonsus</rs> iste regnauit <date dur="P52Y">annis Lijª</date> .</p>
+         <p> E<choice> <am>ª</am> <ex>ra</ex></choice> <date when="0980">dccc lxxxº</date> <pc>.</pc> <rs type="pessoa">ramirus</rs> <rs type="parentesco" subtype="filho"> filius</rs> <rs type="pessoa">veremudi</rs> regnauit <date dur="P7Y">annis vijº</date>.</p>
+         <p> E<choice> <am>ª</am> <ex>ra</ex></choice> <date when="0989"> dcccc lxxxº viiij</date> ordoníus filíus ramírí regna annis xvj .</p>
+         <p>  E<choice> <am>ª</am> <ex>ra</ex></choice> dccccc iiijº <pc>.</pc> <rs type="pessoa">adefonsus</rs> <rs type="pessoa">ordoníj</rs> <rs type="parentesco" subtype="filho"> filius</rs> regnauit <date dur="P18Y"> annis x viijº .</date> iste prímo regni
+            sui anno et sue natiuitatis xiiijº . ab apostora <rs type="pessoa"> froílano</rs> <placeName type="condado">galliçie </placeName> <pc>.</pc> <rs type="estauto" subtype="conde"> comite</rs> per tirannidem regno priuatur sed ipse <rs type="estauto" subtype="rei">rex </rs> <placeName type="reino"> 
+            castellam</placeName> se contulit I non multo post eodum <rs type="pessoa"> froilano</rs> <pc>.</pc>  <rs type="estauto" subtype="rei">rege</rs> tirano et in fausto a fidelibus  <rs type="estauto" subtype="rei">regis</rs> <rs type="pessoa">adefonsi </rs> oueto interfecto . Idem
+            gloriosus puer ex <placeName type="reino">castella</placeName> reuertitor et in patris solio felicíter colocator quam ab iniçio sui regni super inimicos uictoriarum fauorem semper habuit <pc>.</pc> illius temporeinumabilis <rs type="definir"> ismaelitarum</rs> exercitus ad 
+            <placeName type="reino">legionem</placeName> venit <rs type="estauto" subtype="duque">duce</rs> <rs type="pessoa">almundar</rs> <rs type="parentesco" subtype="filho"> filío</rs> <rs type="pessoa">abderrahamen </rs><rs type="estatuto" subtype="rei">rege</rs>
+            <rs type="parentesco" subtype="irmão">fratre</rs> de <rs type="pessoa">mahometh</rs> .  <rs type="estatuto" subtype="rei">rege</rs> <placeName type="reino">cordobense</placeName> <pc>.</pc>  sed nimis sibi nocuit quor ibi venit <pc>.</pc> nam ibi multa milícia erant occísa <pc>.</pc> 
+            ceterus vero exercitus fugíendo euasit <pc>.</pc>  ipisit dicbus alter exercitus in berdigo et ingressus <pc>.</pc> sed gratias deo sine nocumento istius regis en interemptus multosqui sed inimicorum termínos acquisuit rex iste cepit namque <rs type="marcadorpaisagem"> castrum </rs>
+            quod der <pc>.</pc> nazzan . antensam uero pacem acquisium <pc>.</pc> <placeName type="cidade"> Conimbríam </placeName> ab inimicis possessam <pc>.</pc> hemítauit <pc>.</pc> et ex  <placeName type="definir"> galle <pb n="2r"/>çis </placeName>Postea populauit . Multa quoque alia
+            <rs type="marcadorpaisagem">castra  </rs> sibi  subseçit . et eius tempore eeclesia creuit regnum que ampliauit urbes quoque ampliauit urbes que íste a <rs type="definir"> christianis</rs> populantur scilicet  <rs type="definir"> bracarensís </rs>, <rs type="definir"> portugalensis</rs> aucennses .
+            <rs type="definir"> vesensis</rs> <rs type="definir">eminiensís</rs> atque <rs type="definir">lamecunensis</rs> ístíus uíctoria. caunennsis . <rs type="definir">egitaníensis</rs> et etceteros <placeName type="definir">Lusitanie</placeName> limites gladio et fame comsumptos usque emeritam et maris littora
+            heremítauít atque destruxít <pc>.</pc> permansit autem regnum <placeName type="reino"> hyspanie christianorum</placeName> usque ad <rs type="pessoa"> almanzor </rs> annis <date when="1124"> m c <pc>.</pc> xx iiijº</date> </p>
+         <p> E<choice> <am>ª</am> <ex>ra</ex> </choice>  <date when="1027">M. xx viijº </date>. Kalendas. Iulij <rs type="pessoa">almanZor ibenamer</rs> cepit <placeName type="cidade">colímbríam</placeName> . et sic a multis seníbus audiuimus . deserta fuit <date dur="P7Y"> septem annis</date> postea <pc>.</pc> 
+            reedifícauerunt eam <rs type="definir">lismaelite</rs> et renuerunt eam <date dur="P70Y">Lxx <pc>.</pc> annis </date><pc>.</pc></p>
+         <p><choice> <am>Eª</am> <ex>Era</ex> </choice> <date when="1029">M <pc>.</pc> xxv iiijº <pc>.</pc> </date>iiijº nonis decembris <rs type="pessoa">almanzor</rs> cepit <placeName type="definir">montem maiorem</placeName> <pc>.</pc></p>
+         <p> <choice> <am>Eª</am> <ex>Era</ex> </choice> <date when="1033">M<pc>.</pc> xxx ª iijª </date> <rs type="pessoa">almanzor</rs> cepit <placeName type="definir">castellum de aguilar</placeName> . quod est rippa sause in <placeName type="provincia">portugalense</placeName> prouincía <pc>.</pc> </p>
+         <p> <choice> <am>Eª</am> <ex>Era</ex> </choice> <date when="1046">M<pc>.</pc> xvj [sic] <pc>.</pc> </date>  ij nonas octobri occisus fuit <rs type="estatuto" subtype="conde">comes</rs> menendus gunsalmez<pc>.</pc> </p>
+         <p><choice> <am>Eª</am> <ex>Era</ex> </choice>  <date when="1054">M<pc>.</pc> Liiijº<pc>.</pc> </date> viij º idus septembris <pc>.</pc> veniunt ormanes ad castellum virmudii que est in prouinçia bracarensi comes tune ibi erat aluitus nuniZ <pc>.</pc> </p>
+         <pb n="2v"/>
+         <p><choice> <am>Eª</am> <ex>Era</ex> </choice> <date when="1066">M<pc>.</pc> Lxvj </date> obijt <rs type="estatuto" subtype="rei">rex</rs> dominus <rs type="pessoa"> adefonssus</rs> uiseo et in ipso anno obijt <rs type="estatuto" subtype="conde">comes</rs> <rs type="pessoa"> nunus aluitiZ</rs> [sic] <pc>.</pc></p>
+         <p><choice> <am>Eª</am> <ex>Era</ex> </choice> <pc>.</pc> <date when="1072">M<pc>.</pc> Lxxij <pc>.</pc> </date> ij idus nouembrís <rs type="pessoa"> gondisalus trastimiriZ</rs> cepit <placeName type="definir">montem maiorem</placeName> et reddidit cum <rs type="definir"> christianis </rs><pc>.</pc></p>
+         <p><choice> <am>Eª</am> <ex>Era</ex> </choice> <pc>.</pc> <date when="1076">M<pc>.</pc> Lxxvj </date> Kalendas septembri <rs type="pessoa"> gondísalus trastamiriZ</rs> occisus est in auenoso<pc>.</pc></p>
+         <p><choice> <am>Eª</am> <ex>Era</ex> </choice> <pc>.</pc> <date when="1083">M<pc>.</pc> lxxxiij <pc>.</pc> </date> xº kalenda april <rs type="estatuto" subtype="rei">Rex</rs> domnus <rs type="pessoa"> uermudus</rs> habuit uictoríam de <rs type="definir"> mauris</rs> pugnauit cum eis et cepit ibi regem eorum cunea nume in uilla <placeName type="vila">ceSari</placeName> ínteriorio <placeName type="marcopaisagem">castelli sancte marie</placeName> <pc>.</pc></p>
+         <p><choice> <am>Eª</am> <ex>Era</ex> </choice> <pc>.</pc> <date when="1085">M<pc>.</pc> lxxxv<pc>.</pc> </date> obijt ipse <rs type="estatuto" subtype="rei">rex</rs> dominus <rs type="pessoa">vermudus</rs></p> 
+         <p><choice> <am>Eª</am> <ex>Era</ex> </choice> <pc>.</pc> <date when="1095">M<pc>.</pc> xc v </date> <rs type="estatuto" subtype="rei">Rex</rs> dominus <rs type="pessoa">Fernandus</rs> cum coniuge sua <rs type="estatuto" subtype="rainha">regina</rs> donna <rs type="pessoa">sançia</rs> cepit  <placeName type="cidade">lamecum</placeName> iij kalendas decemberis in festíuitate sancti saturníni lucescente die sabbati <pc>.</pc></p>
+         <p><choice> <am>Eª</am> <ex>Era</ex> </choice> <pc>.</pc> <date when="1096">M xc vj <pc>.</pc> </date> iiijº kalendas augusti in die sancti cuçufati <rs type="estatuto" subtype="rei">Rex</rs> donus <rs type="pessoa">fernandus</rs> cepit ciuítatem <placeName type="cidade">uiseum</placeName> postea senam <pc>.</pc> et <placeName type="definir">sanctum martínum <pc>.</pc> de mauris <pc>.</pc></placeName> et <placeName type="definir">Tharaucam</placeName> et 
+            <placeName type="definir">penaluiam</placeName> <pc>.</pc> atque cetera <placeName type="reino">castella</placeName> <pc>.</pc> ipsarum vicinitatum per <date dur="P8Y">annos viijº</date> <pc>.</pc></p>
+         <p><choice> <am>Eª</am> <ex>Era</ex> </choice> <pc>.</pc> <date when="1102"> M<pc>.</pc> c<pc>.</pc> ij<pc>.</pc> </date> viijº <pc>.</pc> kalenda augusti feria vj <pc>.</pc> ín vespera sancti christo <rs type="estatuto" subtype="rei">Rex</rs> donnus <rs type="pessoa">fernandus</rs> <pc>.</pc> cepit <placeName type="cidade">colibríam</placeName> <pc>.</pc></p>
+         <pb n="3r"/>
+         <p><choice> <am>Eª</am> <ex>Era</ex> </choice> <pc>.</pc><date when="1103"> M<pc>.</pc> c <pc>.</pc> iij <pc>.</pc> </date> <rs type="estatuto" subtype="rei">Rex </rs> Donnus <rs type="pessoa">fernandus</rs> mortuus est <pc>.</pc> et vijº Kalendas ianiarij sepultus est in <placeName type="cidade"> legíonensi cíuítate</placeName> <pc>.</pc></p>
+         <p><choice> <am>Eª</am> <ex>Era</ex> </choice> <pc>.</pc> <date when="1104"> M<pc>.</pc> c<pc>.</pc> iiijº <pc>.</pc> </date> vi kalendas decembris mortuus est <rs type="pessoa">menendus gunZaluiZ</rs> vir illutris et magne potencie in toto <placeName type="Reino"> portugali</placeName> <rs type="parentesco" subtype="filho">fílius</rs><rs type="pessoa">gundisalui transmiriz</rs> <pc>.</pc></p>
+         <p><choice> <am>Eª</am> <ex>Era</ex> </choice> <pc>.</pc><date when="1109"> M<pc>.</pc> c<pc>.</pc> viiijº <pc>.</pc> </date> xv kalendas februarij <placeName type="definir"> Portugalenses</placeName> commiserunt prelium aduersus  <rs type="estatuto" subtype="rei">regem</rs> donnum <rs type="pessoa">garcíam</rs> <rs type="parentesco" subtype="filho">filium</rs> <rs type="estatuto" subtype="rei"> regis</rs> 
+            donni <rs type="pessoa"> fernandi</rs> habebant que çepit caput in ipso bello <rs type="estatuto" subtype="conde">comite</rs>  <rs type="pessoa">nuno mendez</rs> <pc>.</pc></p>
+         <p>I perijt ipse ibí et cuncti alij sui fugierunt obtinuit autem rex de illis victoríam in loco qui Dicitur  <placeName type="definir">petro sum</placeName> <pc>.</pc> inter <placeName type="cidade">bracaram</placeName> et <placeName type="rio">fluvium cadauo</placeName> .</p>
+         <p> <choice> <am>Eª</am> <ex>Era</ex> </choice> <pc>.</pc><date when="1110"> M<pc>.</pc> c<pc>.</pc> x<pc>.</pc> </date> occisus est <rs type="estatuto" subtype="rei">rex</rs> sancíus fílius <rs type="estatuto" subtype="rei">regis</rs> donni <rs type="pessoa">fernandi</rs> ad faciem Ignore ciuitatis Post cuius mortem <rs type="parentesco" subtype="pai">frater</rs> eius <rs type="estatuto" subtype="rei">rex</rs>
+            donnus <rs type="pessoa">alfonsus</rs> regnum obtinuit <placeName type="definir"> hyspanie</placeName> qui bella multa exercuít annis multis aduersus <rs type="definir">sarracenos</rs> <pc>.</pc> <rs type="definir">christiani</rs> nostrus ínímicos alijs bellum dabat abalijs tríbutum accipiebat<pc>.</pc></p>
+         <p> <choice> <am>Eª</am> <ex>Era</ex> </choice> <pc>.</pc><date when="1115"> M<pc>.</pc> c<pc>.</pc> xv<pc>.</pc> </date> mense septembris <pc>.</pc> cepit idem <rs type="estatuto" subtype="rei">rex</rs> <rs type="pessoa">adefonsus</rs> <placeName type="cidade">cauriam ciuitatem</placeName><pc>.</pc></p>
+         <pb n="3v"/>
+         <p><choice> <am>Eª</am> <ex>Era</ex> </choice> <pc>.</pc><date when="1123"> M<pc>.</pc> c <pc>.</pc> xx<pc>.</pc> iij <pc>.</pc> </date> viij Kalendas Iunij <rs type="estatuto" subtype="rei">rex</rs>  donnus <rs type="pessoa">adefonsus</rs> cepit <pc>.</pc> <placeName type="cidade">ciuitatem <pc>.</pc> toletum </placeName> <pc>.</pc> postea <placeName type="definir">talaueíram</placeName> <pc>.</pc> 
+            cunctaque <placeName type="reino">castella</placeName> que sunt in <placeName type="definir">carpanía</placeName> prouinçia <placeName type="provincia">cartagínis</placeName> <pc>.</pc> subiacentía regi <placeName type="cidade">urbi toleto</placeName> que est metropolis<pc>.</pc> </p>
+         <p><choice> <am>Eª</am> <ex>Era</ex> </choice> <pc>.</pc><date when="1125">  M<pc>.</pc> c<pc>.</pc> xxv<pc>.</pc> </date> <rs type="estatuto" subtype="rei">Rex</rs> donus <rs type="pessoa">alfonsus</rs> magnum prelíum habuit cum <rs type="estatuto" subtype="rei">rege</rs> <rs type="definir">sarracenorum</rs> <rs type="pessoa">iucifi bentexafaj</rs><pc>.</pc> transmarino ad faciem 
+            <placeName type="cidade">ciuitatis badalioz</placeName> in loco qui dicitur sagalias ubi unanimiter conuenerunt cum rege <pc>.</pc> nostro <rs type="definir">christiani</rs> <pc>.</pc> aportibus <placeName type="marcosgeográficos">alpes multique francorum</placeName> in adiutoríum eius affuerunt <pc>.</pc> sed diabolo aduirsante timor magnus inuasit plurimos nostrorum et fugierunt ex eis multa milia nulla eos persequente <pc>.</pc> Rex uero fuge illorum istius <pc>.</pc> 
+            confidenter ingressus est prelium <pc>.</pc> in quo aderant omnes <rs type="definir">sarraceni</rs> totius <placeName type="definir"> hyspaníe</placeName> armanti cum  <rs type="pessoa">iusef benteisafun</rs> quam sibi ín regem assumpserant <pc>.</pc> Nec nono ipse iucet multa milia <rs type="definir">barbarorum</rs> <rs type="definir">transmarinorum</rs> <rs type="definir">moabitarum</rs> <rs type="definir">arabum</rs> que secum traducxerat Quorum 
+            numurum nec ipse eorum rex nec aliquis homo scire poterat . nisis solus deus <pc>.</pc>"Pugnauit itaque <rs type="estatuto" subtype="rei">rex</rs> donnus <rs type="pessoa">alfonsus</rs> et qui remanserant cum eo aduersus <rs type="definir">sarracenos</rs> usque ad noctem <pc>.</pc> nullus que inimicorum Sustinere valebat eius presentem incursionem sed pera sirgum se Concludents <rs type="definir">sarraceni</rs> interficiebant <rs type="definir">christanorum</rs> multitudinem
+            in tantum uero <rs type="estatuto" subtype="rei">rex</rs> <placeName type="marcosgeográficos">castellum</placeName> <pb n="4r"/> <rs type="definir">sarracenorum</rs> et acies inuasit et interficiendo eos et dipergendo expulit huc es illuc quosque peruenit ad locum ubi <rs type="estatuto" subtype="rei">regis</rs> <pc>.</pc>  <rs type="pessoa">iucif</rs> tentorium fixum erat atque per circuitum magno vallo vallatum <pc>.</pc> Quem dum rex acriter expugnaret et fortirer inuadeir 
+            isister quidam Suorum venie hoc ei nunciauit <pc>.</pc> Nouris domine mi rex quam interun dum su hic pugnas <pc>.</pc> <rs type="definir">sarracenorum</rs> in sidíe sua inuadunt <placeName type="marcosgeográficos">castra</placeName><pc>.</pc> quo audito et asuis consilío accepto<pc>.</pc> <rs type="estatuto" subtype="rei">rex</rs> regem <rs type="definir">maurum</rs> relíquit et ab eius temptorio discessit <pc>.</pc>  festinus ergo cum suis qui secum aderant ad <rs type="definir">sarracenos</rs>
+            qui <placeName type="marcosgeográficos">castra</placeName> sua inuaserunt accessit multos que ex eis occidit et a <placeName type="marcosgeográficos">castris</placeName> fortirer expulit <pc>.</pc> ibi quidem multi corruerunt <rs type="definir">christianorum</rs> qui remanserant <pc>.</pc> congregati sunt ad regem <pc>.</pc> Rex autem plagatus lancea cum nimium sitiret propter fluxum sanguinis Decurrentis a plaga vice a qui propinauerunt ei uinum que aquam non inuenerant <pc>.</pc> unde 
+            Sincopi passus cum his qui secum aduerant reuersus est cauriam <pc>.</pc> <rs type="definir">Sarraceni</rs> que reuersi sunt vnusquisque ad loca sua<pc>.</pc></p>
+         <p><choice> <am>Eª</am> <ex>Era</ex> </choice> <pc>.</pc> <date when="1129"> M<pc>.</pc> c <pc>.</pc> xx viiij<pc>.</pc> </date> viijº kalendas septembre <pc>.</pc> obijt <rs type="estatuto" subtype="alvazil">aluazil </rs> Donus <rs type="pessoa">sesnandus</rs> <pc>.</pc></p>
+         <p> <choice> <am>Eª</am> <ex>Era</ex> </choice> <pc>.</pc> <date when="1131"> M<pc>.</pc> c <pc>.</pc> xxxj <pc>.</pc> </date> iiº kalendas Maij sabbato hora nona <rs type="estatuto" subtype="rei"> Rex </rs> Donus <rs type="pessoa">Alfonsus</rs> cepit <placeName type="cidade">ciuitatem Sanctaren</placeName> anno regni sui xx<pc>.</pc> viij <pc>.</pc> mense <pc>.</pc> v <pc>.</pc> sex <pb n="4v"/> ta die mensis<pc>,</pc> et in eadem hebdomada pridie nonas maij fería <pc>.</pc>v<pc>.</pc> 
+            cepit <placeName type="cidade">vlíxbonam</placeName> <pc>.</pc> post tertium autem diem <pc>.</pc> viijº idus maii <pc>.</pc> cepit sint[sic] preposuit que eis generum suum <rs type="estatuto" subtype="conde">comitem</rs> donnum <rs type="pessoa">raimundum marítum</rs> <rs type="parentesco" subtype="filha">filie</rs> sue donne <rs type="pessoa">orrace</rs> et sub manu eius suarium menendi <pc>.</pc> ipse autem Rex reuersus est <placeName type="cidade">toletum </placeName><pc>.</pc></p>
+         <p><choice> <am>Eª</am> <ex>Era</ex> </choice> <pc>.</pc> <date when="1137">M<pc>.</pc> c<pc>.</pc> xxxvij <pc>.</pc> </date> iij <pc>.</pc> kalendas Iulij obíjit <rs type="estatuto" subtype="rei">rex</rs> Donus <rs type="pessoa">Alfonsus</rs> <rs type="estatuto" subtype="rei">regis</rs> Donni <rs type="pessoa">fernandi</rs> <rs type="parentesco" subtype="filho">filius</rs><pc>.</pc> </p>
+         <p> <choice> <am>Eª</am> <ex>Era</ex> </choice> <pc>.</pc> <date when="1147">M<pc>.</pc> c <pc>.</pc> xL<pc>.</pc> </date> vij menses julío íterum capta fuit <placeName type="vila">sintera [sic]</placeName> a <rs type="estatuto" subtype="conde">comite</rs> Donno <rs type="pessoa">henrríco</rs> <rs type="parentesco" subtype="genro">genero</rs> donni Alfonsi <rs type="estatuto" subtype="rei">regis</rs> <rs type="parentesco" subtype="marido">marito</rs> <rs type="parentesco" subtype="filha">fillie</rs> sue 
+            <rs type="estatuto" subtype="rainha">regine</rs> donne <rs type="pessoa">tharasie</rs> <pc>.</pc> audientes enim <rs type="definir">sarraceni</rs> mortem regis ceperunt rebellare <pc>.</pc></p>
+         <p><choice> <am>Eª</am> <ex>Era</ex> </choice> <pc>.</pc> <date when="1148">M<pc>.</pc> c<pc>.</pc> xl <pc>.</pc> viijº <pc>.</pc> </date> factum est magnum infortuníum super <rs type="definir">christianorum</rs> qui iban ad <placeName type="cidade">sanctaren</placeName> por anudunba in loco qui dicitur valatandi Dum enim vellent ibi <rs type="definir">christiani</rs> figere temptoria et requiescere ecce subito ex improuiso multitudo <rs type="definir">sarracenorum</rs>
+            <rs type="definir">moabitarum</rs> et <rs type="definir">arabum</rs> <pc>.</pc> audito <pc>.</pc> nue eorum uenierunt et irruerunt super eos repente et inparatos eos inuenientes <pc>.</pc> interfecerunt ex eís plurimos ibique mortuus fuit <rs type="pessoa">suarios famariguit</rs> <rs type="parentesco" subtype="pai">pater</rs> de <rs type="pessoa">nuno suariz</rs> <pc>.</pc> qui erat <rs type="estatuto" subtype="duque">Dux</rs> super eos et  <rs type="pessoa">mído cresconiz</rs>  <rs type="parentesco" subtype="pai">pater </rs>
+            de <rs type="pessoa">johannes midiz</rs><pc>.</pc></p>
+         <pb n="5r"/>
+         <p><choice> <am>Eª</am> <ex>Era</ex> </choice> <pc>.</pc> <date when="1148">M<pc>.</pc> c <pc>.</pc> xL <pc>.</pc> viijº <pc>.</pc></date> <rs type="estatuto" subtype="rei">Rex</rs> <rs type="pessoa">cirus</rs> cepit <placeName type="cidade">sanctaren</placeName> <pc>.</pc> vij <pc>.</pc> kalendas Iunij. </p>
+         <p><choice> <am>Eª</am> <ex>Era</ex> </choice> <pc>.</pc> <date when="1148">M<pc>.</pc> c<pc>.</pc> xL <pc>.</pc> viijº <pc>.</pc></date> natus fuit infans Alfonsus <pc>.</pc> <rs type="estatuto" subtype="conde">comitis</rs> <rs type="pessoa">henrrici</rs> et <rs type="estatuto" subtype="rainha">Regine</rs> donne <rs type="pessoa">tarasie</rs> <rs type="parentesco" subtype="filho">filius</rs> <pc>.</pc> <rs type="estatuto" subtype="rei">regis</rs> donni <rs type="pessoa">Alfonsi</rs> 
+            <rs type="parentesco" subtype="neto">nepos</rs> <pc>.</pc></p>
+         </div>
+      </body>
+   </text>
+</TEI>

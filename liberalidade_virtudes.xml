@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher></publisher>
+            <availability>
+               <p></p>
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution SharealIKE</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+         <listWit>
+            <witness xml:id="L">
+               <msDesc>
+               <msIdentifier>
+                  <settlement>Lisboa</settlement>
+                  <repository>Biblioteca Nacional</repository>
+                  <idno>res 283</idno>
+                  <msName>L</msName>
+               </msIdentifier>
+                  </msDesc>
+               </witness>
+         </listWit>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div>
+               <pb n="18"/>
+               <head>Liberalidade.</head>
+            <p>
+               <lb/>LOuu<am>ã</am><ex>am</ex>todas as historias a liberalidade &amp; ma
+               <lb/>gnific<am>e~</am><ex>en</ex>cia no genero masculino, por ver virtu-
+               <lb/>de muyto conueni<am>e~</am><ex>en</ex>te a <roleName>principes</roleName> &amp; gr<am>ã</am><ex>an</ex>des seño-
+               <lb/>res, &amp; a toda outra pessoa<ref target="#n_18.1">c</ref><note xml:id="n_18.1">c</note>. Como se vio por expe
+               <lb/>ri<am>e~</am><ex>en</ex>cia no <roleName>emperador</roleName> <persName>Tito</persName>,ao qual n<am>ã</am><ex>ão</ex> chegaua pes
+               <lb/>soa alg<am>u~</am><ex>um</ex>a sem alc<am>ã</am><ex>an</ex>çar ho <am>q~</am><ex>que</ex> requeria, ou esperança
+               <lb/>de ho alc<am>ã</am><ex>an</ex>çar.E sendo perg<am>u~</am><ex>un</ex>tado por seus amigos
+               <lb/>pera <am>q~</am><ex>que</ex> prometia mais do <am>q~</am><ex>que</ex> podia,resp<am>õ</am><ex>on</ex>deo :<am>q~</am><ex>que</ex>ho
+               <lb/>fazia, por<am>q~</am><ex>que</ex>não era cousa c<am>õ</am><ex>on</ex>ueni<am>e~</am><ex>en</ex>te apartarse pes
+           <pb n="19"/>
+               <lb/>soa alg<am>u~</am><ex>um</ex>a do c<am>õ</am><ex>on</ex>speEto do Principe triste ou desco
+               <lb/>tente. E lembrandose h<am>u~</am><ex>um</ex> dia sobre çea <am>q~</am><ex>que</ex>nelle n<am>ã</am><ex>ao</ex>
+               <lb/>fizera merce, disse : amigos este dia perdy.
+               <lb/><persName>Alexandre Magno</persName>, a hum pobre <am>q~</am><ex>que</ex>lhe pedio es
+               <lb/>mola deu hua cidade. E consesando ho que rece
+               <lb/>beo a merce que nam era digno nem capaz de tãe
+               <lb/>grande magnificencia, <persName>Alexandre</persName><ref target="#n_19.1">b</ref><note xml:id="n_19.1">Content of the note, which is actually really really interesting, but the transcriber did not transcribe ;)</note> lhe resp<am>õ</am><ex>on</ex>deo.
+               <lb/>Eu nam tenho conta com ho <am>q~</am><ex>que</ex>tu mereces, se não
+               <lb/>com ho que a mym conuem dar.
+               <lb/>Outras muyto móres magnific<am>e~</am><ex>en</ex>cias &amp; gr<am>ã</am><ex>an</ex>dezas
+               <lb/>poderá escreuer delRey nosso señor,os <am>q~</am><ex>que</ex> soubereé
+               <lb/>exprimir as gr<am>ã</am><ex>an</ex>des merces,doações, supremos ti
+               <lb/>tulos &amp; estados,<am>q~</am><ex>que</ex>sua. <am>A.</am> daa c<am>õ</am><ex>on</ex>tinuam<am>e~</am><ex>en</ex>te aos no
+               <lb/>bres &amp; gr<am>ã</am><ex>an</ex>des señores de seus Reynos &amp; senho-
+               <lb/>rios, &amp; a todos seus vasallos, com <am>q~</am><ex>que</ex>leixaraa de fy
+               <lb/>memoria eterna, depois de muytol<am>õ</am><ex>on</ex>gos &amp; foeli-
+               <lb/>cisismos annos. Por<am>q~</am><ex>que</ex> diz a secriptura. ViEtoria &amp;
+               <lb/>honra acquire ho <am>q~</am><ex>que</ex> he liberal &amp; daa do seu. E em 
+               <lb/>outra parte afirma : <am>q~</am><ex>que</ex>os dões &amp; liberalidade faz<am>e~</am><ex>em</ex>
+               <lb/>caminho &amp; dam lugar ante os <roleName>Principes</roleName>.
+               <lb/>Da qual liberalidade &amp; magnificencia nam ca
+               <lb/>rece ho genero feminino,(ainda que com<am>u~</am><ex>um</ex>mente
+               <lb/>afirmem que as molheres sam auarifismas) co-
+               <lb/>mo devio na <roleName>Raynha</roleName> <persName>Sabba</persName>, que da vltima par-
+               <lb/>te do mundo soy a <placeName>Ierusalem</placeName> ouuir ho saber &amp;
+            <pb n="20"/>"
+               <lb/>doEtrina de Salomo~, &amp; lhe fez doaçã de çentro &amp;
+               <lb/>vinte talentos douro, &amp; muytas pedras reciosas,
+               <lb/>&amp; outras cousas de grande preço &amp; valia, em que 
+               <lb/>mostrou sua magnificencia &amp; liberalidade.
+               <lb/>Assi poderia referir a grandeza &amp; liberalidade de 
+               <lb/>Cleopatra no bãquete q~ deua Marco Antonio:
+               <lb/>no qual desfez em vintage hu~a pedra de grande 
+               <lb/>estima &amp; valia q~ tirou de hu~a arrecada da orelha
+               <lb/>&amp; quisera desfazer a que trazia na outra se Lucio
+               <lb/>Plauto juyz do bãquete ho nã jmpedira. E por ser
+               <lb/>hu~a magnifice~cia prodiga, &amp; feita por molher, q~
+               <lb/>nã merece fazer della mais notauel menção.
+            </p>
+         </div>
+      </body>
+  </text>
+</TEI>
