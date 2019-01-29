@@ -39,23 +39,29 @@
                   Imprensa Nacional-Casa da Moeda, pp. 101-112.</bibl>
                <category xml:id="h.1">
                   <catDesc>Hiato na desinência de palavra: -eo; -ea.</catDesc>
+               </category>
+               <category xml:id="h.2">
                   <catDesc>Iode na desinência de palavra: -eio; -eia.</catDesc>
                </category>
             </taxonomy>
             <taxonomy>
                <bibl>Esperança Cardeira - Entre o Português Arcaico e o Português Clássico. Lisboa:
                   Imprensa Nacional-Casa da Moeda, pp. 175-201.</bibl>
-               <category xml:id="h.2">
+               <category xml:id="h.3">
                   <catDesc>-D- intervocálico na segunda pessoa plural: forma plena.</catDesc>
+               </category>
+               <category xml:id="h.4">
                   <catDesc>-D- intervocálico na segunda pessoa plural: forma sincopada.</catDesc>
                </category>
             </taxonomy>
             <taxonomy>
                <bibl>Esperança Cardeira - Entre o Português Aracaico e o Português Clássico. Lisboa:
                   Imprensa Nacional-Casa da Moeda, pp. 203-219.</bibl>
-               <category xml:id="h.3">
-                  <catDesc>Particípio em -UDO.</catDesc>
-                  <catDesc>Particípio em -IDO.</catDesc>
+               <category xml:id="h.5">
+                  <catDesc>Particípio em -UDO nos verbos da 2.ª conjugação.</catDesc>
+               </category>
+               <category xml:id="h.6">
+                  <catDesc>Particípio em -IDO nos verbos da 2.ª conjugação.</catDesc>
                </category>
             </taxonomy>
          </classDecl>
@@ -67,10 +73,10 @@
             <pb n="1"/>
             <cb n="1a"/>
             <ab><hi rend="red">En nome de deus amen e de s<am>cã</am><ex>ancta</ex> maria sua madre.
-                     Aqui<note>O copista anotou a letra de espera [a], no entanto, não restituiu a
-                     maiúscula.</note> se comeca a regra de sant'agustinho e a exposiçom dela
-                     <am>p</am><ex>er</ex> ljnguagem tam bem do texto come da glosa . E e
-                     no<note>Leia-se: ẽ no.</note> começo da glosa diz assi</hi></ab>
+                     Aqui<note type="n.1">O copista anotou a letra de espera [a], no entanto, não
+                     restituiu a maiúscula.</note> se comeca a regra de sant'agustinho e a exposiçom
+                  dela <am>p</am><ex>er</ex> ljnguagem tam bem do texto come da glosa . E e no<note
+                     type="n.2">Leia-se: ẽ no.</note> começo da glosa diz assi</hi></ab>
 
             <ab><hi rend="red">P</hi>or em som chamados regra a<am>q</am><ex>ue</ex>stes preçeptos
                adeante s<am>ci</am><ex>cri</ex>ptos por<am>q</am><ex>ue</ex> nos he em elles
@@ -84,35 +90,36 @@
                   <am>g</am><ex>re</ex>gos canõ .</ab>
 
             <ab>E da<am>q</am><ex>ue</ex>ste nome grego canõ e de rregra . som chamados coonigos
-               rregrantes a<am>q</am>ue<ex/>les <am>q</am><ex>ue</ex> e<note>Erro por [ẽ].</note> no
-               moesteiro som constitujdos . segũdo a rre<am>g</am><ex>ra</ex> dos apostolos .</ab>
+               rregrantes a<am>q</am>ue<ex/>les <am>q</am><ex>ue</ex> e no<note type="n.3">Leia-se:
+                  ẽ no.</note> moesteiro som constitujdos . segũdo a rre<am>g</am><ex>ra</ex> dos
+               apostolos .</ab>
 
-            <ab>Aos <am>q</am><ex>u</ex>aes a rregra da e<note>Erro por [ẽ].</note> no começo modo e
-               maneira de vj<am>u</am><ex>er</ex></ab>
+            <ab>Aos <am>q</am><ex>u</ex>aes a rregra da e no<note type="n.4">Leia-se: ẽ no.</note>
+               começo modo e maneira de vj<am>u</am><ex>er</ex></ab>
 
             <ab>E ensinãdo os diz assi .</ab>
          </div>
 
          <div type="chapter" n="2">
             <ab><hi rend="red">Hec sũt <am>q</am><ex>ui</ex> ut ob<am>s</am><ex>er</ex>uetis
-                     precipi<am>m</am><ex>us</ex> in monasterio constituti .</hi><cb/></ab>
+                     precipi<am>m9</am><ex>us</ex> in monasterio constituti .</hi><cb/></ab>
 
             <ab>E esto <am>q</am><ex>ue</ex>r <cb n="1b"/> dizer .</ab>
 
             <ab>A<am>q</am><ex>ue</ex>stas sam as cousas <am>q</am><ex>ue</ex> mandamos guardar aos
-                  <am>q</am><ex>ue</ex> e<note>Erro por [ẽ].</note> no moesteiro cõstitujdos sodes
-               .</ab>
+                  <am>q</am><ex>ue</ex> e no<note type="n.5">Leia-se: ẽ no.</note> moesteiro
+               cõstitujdos <w ana="#h.3">sodes</w> .</ab>
 
-            <ab> E por esta cousa nos son leudos os <am>p</am><ex>re</ex>ceitos
+            <ab> E por esta cousa nos son <w ana="#h.5">leudos</w> os <am>p</am><ex>re</ex>ceitos
                   diuj<am>n</am><ex>os</ex> por tal <am>q</am><ex>ue</ex> lẽedo os os
-                  entẽda<am>m</am><ex>os</ex> .</ab>
+                  entẽda<am>m9</am><ex>os</ex> .</ab>
 
             <ab>E ẽtẽdendo os <am>q</am><ex>ue</ex> os cõpramos <am>p</am><ex>er</ex> obra .</ab>
 
-            <ab>Por<am>q</am><ex>ue</ex> se os ẽtẽdendesse<am>m</am><ex>os</ex><note>Erro por
-                  [ẽtẽdessemos].</note> e os nõ cõ<am>pi</am><ex>pri</ex>si<am>m</am><ex>os</ex>
-               temedoira seeria a nos a<am>q</am><ex>ue</ex>la sẽtẽca <am>q</am><ex>ue</ex> diz
-               .</ab>
+            <ab>Por<am>q</am><ex>ue</ex> se os ẽtẽdendesse<am>m9</am><ex>os</ex><note type="n.6"
+                  >Erro por [ẽtẽdessemos].</note> e os nõ
+                  cõ<am>pi</am><ex>pri</ex>si<am>m</am><ex>os</ex> temedoira seeria a nos
+                  a<am>q</am><ex>ue</ex>la sẽtẽca <am>q</am><ex>ue</ex> diz .</ab>
 
             <ab><q>O <am>s</am><ex>er</ex>uo <am>q</am><ex>ue</ex> sabe a uoõtade de seu senhor e a
                   nõ faz seera firido de muitas <am>p</am><ex>ra</ex>gas .</q></ab>
@@ -123,19 +130,19 @@
                      a<am>q</am><ex>ue</ex>les <am>q</am><ex>ue</ex> a cõprẽ .</q></ab>
 
             <ab>E por esta razã a nos cõ<am>p</am><ex>re</ex>
-               <am>q</am><ex>ue</ex> ouça<am>m</am><ex>os</ex> os s<am>cos</am><ex>anctos</ex>
+               <am>q</am><ex>ue</ex> ouça<am>m9</am><ex>os</ex> os s<am>cos</am><ex>anctos</ex>
                <am>p</am><ex>re</ex>ceptos do piadoso <am>ds</am><ex>deus</ex> e
-                  <am>q</am><ex>ue</ex> nos rrenẽbre<am>m</am><ex>mos</ex> dos sseus mãdados
+                  <am>q</am><ex>ue</ex> nos rrenẽbre<am>m9</am><ex>mos</ex> dos sseus mãdados
                   <am>p</am><ex>per</ex>a os a<am>u</am><ex>uer</ex>mos de fa<am>z</am><ex>zer</ex>
                .</ab>
 
             <ab>Por<am>q</am><ex>que</ex> segũdo djz o ap<am>p</am><ex>posto</ex>lo
                   s<am>ci</am><ex>ancti</ex>ago .</ab>
 
-            <ab>Se alguũ esguardar ẽ na ley da li<am>b</am><ex>er</ex>dade
-               <am>p</am><ex>per</ex>fecta e este<am>u</am><ex>uer</ex> firmi ẽ ela e nõ for
-                  <am>f</am><ex>fe</ex>cto ouuidor es<am>q</am><ex>que</ex>cido mais fector d'obra
-               .</ab>
+            <ab><q>Se alguũ esguardar ẽ na ley da li<am>b</am><ex>er</ex>dade
+                  <am>p</am><ex>per</ex>fecta e este<am>u</am><ex>uer</ex> firmi ẽ ela e nõ for
+                     <am>f</am><ex>fe</ex>cto ouuidor <w ana="#h.6">es<am>q</am><ex>que</ex>cido</w> mais fector
+                  d'obra .</q></ab>
 
             <ab>Este atal seera beẽto ẽ s<am>e</am><ex>eus</ex>
                <am>f</am><ex>fe</ex>ctos .</ab>
@@ -143,14 +150,14 @@
             <ab>E cõ<am>pi</am><ex>pri</ex>r sse a ẽ ele o <am>q</am><ex>que</ex> he
                   s<am>ci</am><ex>cri</ex>to ẽ no auãgelho <am>q</am><ex>que</ex> diz .</ab>
 
-            <ab>Beẽtos sõ os <am>q</am><ex>que</ex> ouuẽ a palaura de <am>ds</am><ex>deus</ex> e a
-               guardã .</ab>
+            <ab><q>Beẽtos sõ os <am>q</am><ex>que</ex> ouuẽ a palaura de <am>ds</am><ex>deus</ex> e
+                  a guardã .</q></ab>
 
             <ab>E por esta razõ homildosamẽ<am>t</am><ex>te</ex>
-                  es<am>g</am><ex>gar</ex>de<am>m</am><ex>mos</ex><cb n="1c"/>
+                  es<am>g</am><ex>gar</ex>de<am>m9</am><ex>mos</ex><cb n="1c"/>
                   a<am>q</am><ex>que</ex>stas cousas <am>q</am><ex>que</ex> son ẽcomẽdadas a nos
                   ou<am>to</am><ex>tro</ex>s <am>q</am><ex>que</ex> ẽ no moesteiro cõstitujdos
-                  so<am>m</am><ex>mos</ex> .</ab>
+                  so<am>m9</am><ex>mos</ex> .</ab>
 
             <ab>Os <am>q</am><ex>qua</ex>aes mãdados ẽsinãdo a nos dizẽ asy</ab>
          </div>
@@ -162,16 +169,17 @@
 
             <ab>E esto qer di<am>z</am><ex>zer</ex> .</ab>
 
-            <ab><am>P</am><ex>Pri</ex>meiramẽ<am>t</am><ex>te</ex> por<am>q</am><ex>que</ex> sodes
-               aiũtados ẽ hũa cõpanha cõuẽ uos <am>q</am><ex>que</ex> todos <hi rend="superscript"
-                  >moredes</hi> de hũũ coraçõ ẽ uossa casa e <am>q</am><ex>que</ex> sseia a uos hũa
-               alma e hũ coraçõ ẽ <am>ds</am><ex>deus</ex> . </ab>
+            <ab><am>P</am><ex>Pri</ex>meiramẽ<am>t</am><ex>te</ex> por<am>q</am><ex>que</ex>
+               <w ana="#h.3">sodes</w> aiũtados ẽ hũa cõpanha cõuẽ uos <am>q</am><ex>que</ex> todos
+                  <hi rend="superscript"><w ana="#h.3">moredes</w></hi> de hũũ coraçõ ẽ uossa casa e
+                  <am>q</am><ex>que</ex> sseia a uos hũa alma e hũ coraçõ ẽ <am>ds</am><ex>deus</ex>
+               . </ab>
 
             <ab>En nas <am>q</am><ex>qua</ex>ais palauras nos he mos<am>t</am><ex>tra</ex>do
                   <am>q</am><ex>que</ex> esta rregra nos faz a <am>p</am><ex>pri</ex>meira amoestaçõ
                da unidade e da cõcordja .</ab>
 
-            <ab>Cõ tãto <am>q</am><ex>que</ex> a cõcordia seia tal <am>q</am><ex>que</ex> sseia ẽ
+            <ab>Cõtãto <am>q</am><ex>que</ex> a cõcordia seia tal <am>q</am><ex>que</ex> sseia ẽ
                   <am>ds</am><ex>deus</ex> .</ab>
 
             <ab>Por<am>q</am><ex>que</ex> maa <am>h</am><ex>he</ex> a cõcordia
@@ -182,39 +190,37 @@
                   si<am>g</am><ex>gui</ex>r justiça e <am>p</am><ex>per</ex>a
                <am>s</am><ex>ser</ex>ujr a <am>ds</am><ex>deus</ex> .</ab>
 
-            <ab>E esto he por<am>q</am><ex>que</ex> sso<am>m</am><ex>mos</ex> jũtados e
+            <ab>E esto he por<am>q</am><ex>que</ex> sso<am>m9</am><ex>mos</ex> jũtados e
                   cõ<am>g</am><ex>gre</ex>gados ẽ hũũ e por esso nos cõuẽ <am>q</am><ex>que</ex>
-                  aia<am>m</am><ex>mos</ex> todos hũũ coraçõ e hũũ <am>spu</am><ex>spiritu</ex> ẽ no
-                  <am>s</am><ex>ser</ex>ujço de <am>ds</am><ex>deus</ex> .</ab>
+                  aia<am>m9</am><ex>mos</ex> todos hũũ coraçõ e hũũ <am>spu</am><ex>spiritu</ex> ẽ
+               no <am>s</am><ex>ser</ex>ujço de <am>ds</am><ex>deus</ex> .</ab>
 
-            <ab>E por esta razõ nos ẽcomẽda <am>q</am><ex>que</ex> more<am>m</am><ex>mos</ex> ẽ
+            <ab>E por esta razõ nos ẽcomẽda <am>q</am><ex>que</ex> more<am>m9</am><ex>mos</ex> ẽ
                nossa casa ẽ hũũ coraçõ e <am>q</am><ex>que</ex> sseia a nos hũa alma e hũũ coraçõ ẽ
                   <am>ds</am><ex>deus</ex> .</ab>
 
             <ab>E certamẽ<am>t</am><ex>te</ex> a nos cõuẽ se corporalmẽ<am>t</am><ex>te</ex> todos
                somos jũtos ẽ hũũ <am>q</am><ex>que</ex>
-               <am>spualmẽt</am><ex>spiritualmẽte</ex> more<am>m</am><ex>mos</ex> todos ẽsẽbra
+               <am>spualmẽt</am><ex>spiritualmẽte</ex> more<am>m9</am><ex>mos</ex> todos ẽsẽbra
                .</ab>
 
             <ab>Por<am>q</am><ex>que</ex> a nos<cb n="1d"/> nõ <am>p</am><ex>pro</ex>uejta teermos
-               todos hũa casa e departir <am>n</am><ex>nos</ex> a desesuairada<note>Erro por
-                  [desuairada].</note> uoõtade .</ab>
+               todos hũa casa e departir <am>n</am><ex>nos</ex> a desesuairada uoõtade .</ab>
 
             <ab>Por<am>q</am><ex>que</ex> certamẽ<am>t</am><ex>te</ex> mais
                ss<am>p</am><ex>per</ex>a <am>ds</am><ex>deus</ex> de nos ho ajũtamẽto e hunidade do
                nosso coraçõ <am>q</am><ex>que</ex> ho jũtamẽto e unjdade do lo<am>g</am><ex>gar</ex>
-               ẽ <am>q</am><ex>que</ex> sta<am>m</am><ex>mos</ex> .</ab>
+               ẽ <am>q</am><ex>que</ex> sta<am>m9</am><ex>mos</ex> .</ab>
 
-            <ab>E poys sso<am>m</am><ex>mos</ex> ẽ hũa casa mujtos homeẽs de dessuairados custumes e
-               de desuairados coraçoes e de desuairadas almas cõuẽ a nos <am>q</am><ex>que</ex>
+            <ab>E poys sso<am>m9</am><ex>mos</ex> ẽ hũa casa mujtos homeẽs de dessuairados custumes
+               e de desuairados coraçoes e de desuairadas almas cõuẽ a nos <am>q</am><ex>que</ex>
                todas estas cousas seiã jũtas ẽ hũũ <am>p</am><ex>per</ex> boa tẽçõ e amor de
                   <am>ds</am><ex>deus</ex> .</ab>
 
-            <ab>E por esta razõ deue<am>m</am><ex>mos</ex> todos seer ẽ esta cousa de hE por esta
-               razõ deuemos todos seer ẽ esta cousa de hũũ coraçõ e de hũa uoõtade . por tal
-                  <am>q</am><ex>que</ex>
-               <am>s</am><ex>ser</ex>ua<am>m</am><ex>mos</ex> a <am>ds</am><ex>deus</ex> e
-                  <am>q</am><ex>que</ex> ho ame<am>m</am><ex>mos</ex> de todo coraçõ e de toda alma
+            <ab>E por esta razõ deue<am>m9</am><ex>mos</ex> todos seer ẽ esta cousa de hũũ coraçõ e
+               de hũa uoõtade . por tal <am>q</am><ex>que</ex>
+               <am>s</am><ex>ser</ex>ua<am>m9</am><ex>mos</ex> a <am>ds</am><ex>deus</ex> e
+                  <am>q</am><ex>que</ex> ho ame<am>m9</am><ex>mos</ex> de todo coraçõ e de toda alma
                e o noso <am>ppo</am><ex>ppro</ex>ximo asy como nos mee[s]mos .</ab>
 
             <ab>Por a <am>ql</am><ex>qual</ex> razã a nos he mũj necesaria a
@@ -236,7 +242,7 @@
 
             <ab>E a<am>q</am><ex>que</ex>sta he a cousa <am>q</am><ex>que</ex> mais aginha traz ho
                homẽ a cõcordia lejxar de se<am>gir</am><ex>guir</ex> e fazer a sua uoõ<pb n="1"/><cb
-                  n="2a"/>tade e fazer a alhea ẽ bem .</ab>
+                  n="2a"/>tade e fazer a <w ana="#h.1">alhea</w> ẽ bem .</ab>
          </div>
       </body>
    </text>

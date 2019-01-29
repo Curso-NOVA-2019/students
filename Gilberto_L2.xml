@@ -35,26 +35,32 @@
       <encodingDesc>
          <classDecl>
             <taxonomy>
-               <bibl>Esperança Cardeira - Entre o Português Arcaico e o Português Clássico. Lisboa:
+               <bibl>Esperança Cardeira - Entre o Português Aracaico e o Português Clássico. Lisboa:
                   Imprensa Nacional-Casa da Moeda, pp. 101-112.</bibl>
                <category xml:id="h.1">
                   <catDesc>Hiato na desinência de palavra: -eo; -ea.</catDesc>
+               </category>
+               <category xml:id="h.2">
                   <catDesc>Iode na desinência de palavra: -eio; -eia.</catDesc>
                </category>
             </taxonomy>
             <taxonomy>
-               <bibl>Esperança Cardeira - Entre o Português Aracaico e o Português Clássico. Lisboa:
+               <bibl>Esperança Cardeira - Entre o Português Arcaico e o Português Clássico. Lisboa:
                   Imprensa Nacional-Casa da Moeda, pp. 175-201.</bibl>
-               <category xml:id="h.2">
+               <category xml:id="h.3">
                   <catDesc>-D- intervocálico na segunda pessoa plural: forma plena.</catDesc>
+               </category>
+               <category xml:id="h.4">
                   <catDesc>-D- intervocálico na segunda pessoa plural: forma sincopada.</catDesc>
                </category>
             </taxonomy>
             <taxonomy>
                <bibl>Esperança Cardeira - Entre o Português Aracaico e o Português Clássico. Lisboa:
                   Imprensa Nacional-Casa da Moeda, pp. 203-219.</bibl>
-               <category xml:id="h.3">
+               <category xml:id="h.5">
                   <catDesc>Particípio em -UDO.</catDesc>
+               </category>
+               <category xml:id="h.6">
                   <catDesc>Particípio em -IDO.</catDesc>
                </category>
             </taxonomy>
@@ -95,8 +101,8 @@
 
             <ab><hi rend="red">¶</hi> Onde he de notar que aquello a que nos chamamos regra hos
                gregos chamã canõ . Onde deste nomẽ canõ e deste nomẽ regra som dictos coonigos
-               regrantes aquelles que som constituidos no moesteiro e viuẽ segundo a<note>Na margem
-                  de pé, lê-se: "¶Vire cinquo folhas adiãte ¶¶ Regra :.</note>
+               regrantes aquelles que som constituidos no moesteiro e viuẽ segundo a<note type="n.1"
+                  >Na margem de pé, lê-se: "¶Vire cinquo folhas adiãte ¶¶ Regra :.</note>
                <pb n="102r"/> Regra e ordenaçooes dos sanctos padres .</ab>
 
             <ab><hi rend="red">¶</hi> Açerca da segunda parte do titollo que diz de sancto agostinho
@@ -148,12 +154,12 @@
 
             <ab><hi rend="red">¶</hi> Quer dizer .</ab>
 
-            <ab><hi rend="red">¶</hi> Estas som has cousas que mandamos guardar a uos que sodes
-               ajuntadas no moesteiro . Por esta Razam nos som leidos hos preceptos diuinaaes por
-               tal que nos leẽdo hos entendamos e entendendo os <am>q</am><ex>que</ex> hos cũpramos
-                  <am>p</am><ex>per</ex> obra . Porque se hos entendessemos e hos nom
-                  com<am>pi</am><ex>pri</ex>ssemos temedoira seria a nos aquella sentença do juiz
-                  <am>ihu</am><ex>ihesu</ex>
+            <ab><hi rend="red">¶</hi> Estas som has cousas que mandamos guardar a uos que <w
+                  ana="#h.3">sodes</w> ajuntadas no moesteiro . Por esta Razam nos som <w ana="#h.6">leidos</w> hos
+               preceptos diuinaaes por tal que nos leẽdo hos entendamos e entendendo os
+                  <am>q</am><ex>que</ex> hos cũpramos <am>p</am><ex>per</ex> obra . Porque se hos
+               entendessemos e hos nom com<am>pi</am><ex>pri</ex>ssemos temedoira seria a nos
+               aquella sentença do juiz <am>ihu</am><ex>ihesu</ex>
                <am>xpo</am><ex>christo</ex>
                <am>q</am><ex>que</ex> diz .</ab>
 
@@ -172,10 +178,10 @@
                de fazer .</ab>
 
             <ab><hi rend="red">¶</hi> Por<am>q</am><ex>que</ex> segundo diz ho apostollo santiago em
-               sua <pb n="103v"/> . canonica . Se alguũ esguardar na ley da liberdade perfeicta .s.
-               do euangelho e esteuer firme em ella e nom for feicto ouujdor
-                  es<am>q</am><ex>que</ex>çidiço mas fazedor da obra este tal seraa bẽto em seus
-               feictos . Ca se comprira nelle ho que he scripto no euangelho que diz .</ab>
+               sua <pb n="103v"/> . canonica . <q>Se alguũ esguardar na ley da liberdade perfeicta
+                  .s. do euangelho e esteuer firme em ella e nom for feicto ouujdor
+                     es<am>q</am><ex>que</ex>çidiço mas fazedor da obra este tal seraa bẽto em seus
+                  feictos .</q> Ca se comprira nelle ho que he scripto no euangelho que diz .</ab>
 
             <ab><hi rend="red">¶</hi>
                <q>Bẽtos som hos que <am>oum</am><ex>ouuem</ex> a palabra de <am>ds</am><ex>deus</ex>
@@ -193,15 +199,16 @@
             <ab><hi rend="red">¶</hi> Quer dizer .</ab>
 
             <ab><hi rend="red">¶</hi>
-               <am>Pi</am><ex>Pri</ex>meiramente por<am>q</am><ex>que</ex> sodes ajuntadas en huũa
-               companhia cõuen uos que todas moredes de huũa vontade em ho moesteiro e seia a vos
-               huũa alma e hũ <pb n="104r"/> coraçõ em <am>ds</am><ex>deus</ex> .</ab>
+               <am>Pi</am><ex>Pri</ex>meiramente por<am>q</am><ex>que</ex> <w ana="#h.3">sodes</w> ajuntadas en huũa
+               companhia cõuen uos que todas <w ana="#h.3">moredes</w> de huũa vontade em ho
+               moesteiro e seia a vos huũa alma e hũ <pb n="104r"/> coraçõ em
+                  <am>ds</am><ex>deus</ex> .</ab>
 
             <ab><hi rend="red">¶</hi> Polla qual Rezam he a nos feicta em esta regra a primeira
                amoestaçam da vnidade e da comcordia em tãto <am>q</am><ex>que</ex> a concordia seia
-               em <am>ds</am><ex>deus</ex> porque via he a concordia pera fazer peccado e aquella he
-               booa concordia que he pera fazer bem e pera se<am>gi</am><ex>gui</ex>r a justiça e a
-               santidade e pera seruir a <am>ds</am><ex>deus</ex> .</ab>
+               em <am>ds</am><ex>deus</ex> por que via he a concordia pera fazer peccado e aquella
+               he booa concordia que he pera fazer bem e pera se<am>gi</am><ex>gui</ex>r a justiça e
+               a santidade e pera seruir a <am>ds</am><ex>deus</ex> .</ab>
 
             <ab><hi rend="red">¶</hi> E esto he ho porque somos ajuntados em huũ logar .s. porque
                ajamos todas huũ coraçam e huũ <am>spu</am><ex>spiritu</ex> no seruico de
@@ -230,7 +237,7 @@
                seruamos a <am>ds</am><ex>deus</ex> e ho amemos de todo coraçam e de toda alma e ho
                noso proximo como nos meesmos . Polla quall Razam a nos he muy neçessaria a uirtude
                da cõcordia : a qual ligeiramente se pode auer se se desuestir o coonigo ou monja
-               quando vier a ho moesteiro da sua propria vontade e seguir aquello que diz no
+               quando vier aho moesteiro da sua propria vontade e seguir aquello que diz no
                euangelho nosso meestre <am>ihu</am><ex>ihesu</ex>
                <am>xpo</am><ex>christo</ex> . <q>Nom vim eu fazer a minha vontade : mas a do meu
                   padre que he ẽ hos çeeos .</q></ab>
@@ -240,7 +247,7 @@
             <ab><hi rend="red">¶</hi>
                <q>Nom como eu <am>q</am><ex>que</ex>ro mais como a ti apraz</q> E aquesta he a cousa
                que mais asinha traz o monje aa comcordia .s. leixar de fazer a sua vontade e fazer a
-               alhea em bem .</ab>
+                  <w ana="#h.1">alhea</w> em bem .</ab>
          </div>
       </body>
    </text>
