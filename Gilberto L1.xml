@@ -35,26 +35,32 @@
       <encodingDesc>
          <classDecl>
             <taxonomy>
-               <bibl>Esperança Cardeira - Entre o Português Arcaico e o Português Clássico. Lisboa:
+               <bibl>Esperança Cardeira - Entre o Português Aracaico e o Português Clássico. Lisboa:
                   Imprensa Nacional-Casa da Moeda, pp. 101-112.</bibl>
                <category xml:id="h.1">
                   <catDesc>Hiato na desinência de palavra: -eo; -ea.</catDesc>
+               </category>
+               <category xml:id="h.2">
                   <catDesc>Iode na desinência de palavra: -eio; -eia.</catDesc>
                </category>
             </taxonomy>
             <taxonomy>
-               <bibl>Esperança Cardeira - Entre o Português Aracaico e o Português Clássico. Lisboa:
+               <bibl>Esperança Cardeira - Entre o Português Arcaico e o Português Clássico. Lisboa:
                   Imprensa Nacional-Casa da Moeda, pp. 175-201.</bibl>
-               <category xml:id="h.2">
+               <category xml:id="h.3">
                   <catDesc>-D- intervocálico na segunda pessoa plural: forma plena.</catDesc>
+               </category>
+               <category xml:id="h.4">
                   <catDesc>-D- intervocálico na segunda pessoa plural: forma sincopada.</catDesc>
                </category>
             </taxonomy>
             <taxonomy>
                <bibl>Esperança Cardeira - Entre o Português Aracaico e o Português Clássico. Lisboa:
                   Imprensa Nacional-Casa da Moeda, pp. 203-219.</bibl>
-               <category xml:id="h.3">
+               <category xml:id="h.5">
                   <catDesc>Particípio em -UDO.</catDesc>
+               </category>
+               <category xml:id="h.6">
                   <catDesc>Particípio em -IDO.</catDesc>
                </category>
             </taxonomy>
@@ -88,7 +94,7 @@
             <ab>¶ Aynda he chamada rregla . por tal <am>q</am><ex>que</ex> nos rreJa e ensyne
                dereytamente .</ab>
 
-            <ab>¶ E a<am>q</am><ex>que</ex>llo que nos chama<am>m</am><ex>mos</ex> rregla . os
+            <ab>¶ E a<am>q</am><ex>que</ex>llo que nos chama<am>m9</am><ex>mos</ex> rregla . os
                   <am>g</am><ex>gre</ex>gos chamõ canõ .</ab>
 
             <ab>¶ E da<am>q</am><ex>que</ex>ste nome <am>g</am><ex>gre</ex>go canon e de rregla .
@@ -118,17 +124,17 @@
                   entenda<am>m9</am><ex>mos</ex> . e entendendo o[.] <am>q</am><ex>que</ex> os
                   cõpra<am>m9</am><ex>mos</ex> per ob[.]a .</ab>
 
-            <ab>¶ Porque se os entendessemos e os non <am>9pissem9</am><ex>conprissemos</ex> .</ab>
+            <ab>¶ Porque se os entendessemos e os non <am>9</am><ex>con</ex><am>pi</am><ex>pri</ex>sse<am>m9</am><ex>mos</ex> .</ab>
 
             <ab>¶ Temedoyra serya a nos aquella <am>snça</am><ex>sentẽça</ex> [......] .</ab>
 
-            <ab>¶ O <am>s</am><ex>ser</ex>uo que sabe a uoontade do seu se[...] [...]om faz . seera
-               ferydo <am>p</am><ex>per</ex> muytas chagas .<pb n="1v"/> E de mays diz sam paulo em
+            <ab>¶ <q>O <am>s</am><ex>ser</ex>uo que sabe a uoontade do seu se[...] [...]om faz . seera
+               ferydo <am>p</am><ex>per</ex> muytas chagas .</q><pb n="1v"/> E de mays diz sam paulo em
                outro lugar .</ab>
 
-            <ab>¶ Nom <am>s</am><ex>ser</ex>om iustifficados os que ouuẽ a ley .</ab>
+            <ab>¶ <q>Nom <am>s</am><ex>ser</ex>om iustifficados os que ouuẽ a ley .</q></ab>
 
-            <ab>¶ Mas see lo am aquelles que a <am>9p</am><ex>conpre</ex>m .</ab>
+            <ab>¶ <q>Mas see lo am aquelles que a <am>9p</am><ex>conpre</ex>m .</q></ab>
 
             <ab>¶ E Por esta rrazõ a nos con<am>p</am><ex>pre</ex> . que ouçamos os
                   <am>scos</am><ex>sanctos</ex>
@@ -139,16 +145,16 @@
             <ab>¶ E Porque <am>so</am><ex>segundo</ex> diz o <am>aplo</am><ex>apostolo</ex>
                sanctyago .</ab>
 
-            <ab>¶ Se alguũ esguardar em na ley da lyberdade <am>p</am><ex>per</ex>fecta . e
+            <ab>¶ <q>Se alguũ esguardar em na ley da lyberdade <am>p</am><ex>per</ex>fecta . e
                   este<am>u</am><ex>uer</ex> firme em ella . e nõ for feyto ouuydor esqueeçido mas
                feitor d’obra . est[e] a tal s<am/><ex>ser</ex>a beento em se<am>9</am><ex>us</ex>
-               feytos .</ab>
+               feytos .</q></ab>
 
             <ab>¶ E con<am>pi</am><ex>pri</ex>r se a ẽ elle o <am>q</am><ex>que</ex> he
                   es<am>ci</am><ex>cri</ex>pto no euangelho . que diz .</ab>
 
-            <ab>¶ Beentos son aquelles que ouuem a palla<am>u</am><ex>ura</ex> de
-                  <am>ds</am><ex>deus</ex> e a guardã .</ab>
+            <ab>¶ <q>Beentos son aquelles que ouuem a palla<am>u</am><ex>ura</ex> de
+                  <am>ds</am><ex>deus</ex> e a guardã .</q></ab>
 
             <ab>¶ E Por esta rrazom humildosamẽte esguarde<am>m9</am><ex>mos</ex> aquestas cousas .
                que som encomendadas a nos outros que no moesteiro <am>9</am><ex>con</ex>stituydos
@@ -158,7 +164,7 @@
          </div>
          <div type="chapter" n="3">
             <ab><hi rend="underline">¶ Primũ . <am>ppt</am><ex>propter</ex>
-                  <am>qd</am><ex>quod</ex> in unũ estis <am>9g</am><ex>congre</ex>gati . ut unanimes
+                  <am>qd</am><ex>quod</ex> in unũ estis <am>9</am><ex>con</ex><am>g</am><ex>gre</ex>gati . ut unanimes
                   habitetis ĩ domo . et sit <am>ub</am><ex>uobis</ex>
                   <am>aia</am><ex>anima</ex> una. et cor unũ in deo .</hi> Que quer dizer .</ab>
 
@@ -212,7 +218,7 @@
                concordya .</ab>
 
             <ab>¶ A qual sse pode auer . sse se desuystir o frade <del rend="strikethrough">ou
-                  coonygo</del> quando ueher ao <am>mo</am><ex>moesteiro</ex> da sua propya [sic]
+                  coonygo</del> quando ueher ao <am>mo</am><ex>moesteiro</ex> da sua propya
                uoontade . e seguyr aquello que diz no euangelho .</ab>
 
             <ab>¶ <q>Nom vĩĵ eu <am>p</am><ex>per</ex>a fazer a mynha<pb n="2v"/> uoontade . mas a
@@ -220,11 +226,10 @@
 
             <ab>¶ E aynda diz em outro lugar .</ab>
 
-            <ab>¶ Nom como eu quero . mas como a ty <am>pz</am><ex>praz</ex> .</ab>
+            <ab>¶ <q>Nom como eu quero . mas como a ty <am>pz</am><ex>praz</ex> .</q></ab>
 
             <ab>¶ E aquesta he a cousa que mays asinha traz o homẽ a concordya . .s. leixar de
                seguyr e fazer a sua uoõtade e fa<am>z</am><ex>zer</ex> a alhea em bem .</ab>
-
          </div>
       </body>
    </text>
