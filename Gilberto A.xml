@@ -35,26 +35,32 @@
       <encodingDesc>
          <classDecl>
             <taxonomy>
-               <bibl>Esperança Cardeira - Entre o Português Arcaico e o Português Clássico. Lisboa:
+               <bibl>Esperança Cardeira - Entre o Português Aracaico e o Português Clássico. Lisboa:
                   Imprensa Nacional-Casa da Moeda, pp. 101-112.</bibl>
                <category xml:id="h.1">
                   <catDesc>Hiato na desinência de palavra: -eo; -ea.</catDesc>
+               </category>
+               <category xml:id="h.2">
                   <catDesc>Iode na desinência de palavra: -eio; -eia.</catDesc>
                </category>
             </taxonomy>
             <taxonomy>
-               <bibl>Esperança Cardeira - Entre o Português Aracaico e o Português Clássico. Lisboa:
+               <bibl>Esperança Cardeira - Entre o Português Arcaico e o Português Clássico. Lisboa:
                   Imprensa Nacional-Casa da Moeda, pp. 175-201.</bibl>
-               <category xml:id="h.2">
+               <category xml:id="h.3">
                   <catDesc>-D- intervocálico na segunda pessoa plural: forma plena.</catDesc>
+               </category>
+               <category xml:id="h.4">
                   <catDesc>-D- intervocálico na segunda pessoa plural: forma sincopada.</catDesc>
                </category>
             </taxonomy>
             <taxonomy>
                <bibl>Esperança Cardeira - Entre o Português Aracaico e o Português Clássico. Lisboa:
                   Imprensa Nacional-Casa da Moeda, pp. 203-219.</bibl>
-               <category xml:id="h.3">
+               <category xml:id="h.5">
                   <catDesc>Particípio em -UDO.</catDesc>
+               </category>
+               <category xml:id="h.6">
                   <catDesc>Particípio em -IDO.</catDesc>
                </category>
             </taxonomy>
@@ -102,8 +108,8 @@
                   <am>stos</am><ex>sanctos</ex> padres .</ab>
 
             <ab><hi rend="red">¶</hi> E os <am>q</am><ex>que</ex> canonjcamente viuem segũdo a
-               rregla dos apostolos . aos quaaes a rregla da eno<note>eno: o mesmo que "ẽ
-                  no".</note> comeco modo e maneyra de viuer : Ensinãdo os diz assy :.</ab>
+               rregla dos apostolos . aos quaaes a rregla da eno<note>Leia-se: ẽ no".</note> comeco
+               modo e maneyra de viuer : Ensinãdo os diz assy :.</ab>
          </div>
          <div type="chapter" n="2">
             <ab><hi rend="red">ij . capi<am>tlos</am><ex>tulos</ex></hi>
@@ -120,8 +126,8 @@
                nõ cõ<am>pi</am><ex>pri</ex>ssemos . temedoyra seeria a nos a<am>q</am><ex>que</ex>la
                sentẽca <am>q</am><ex>que</ex> diz .</ab>
 
-            <ab><hi rend="red">¶</hi> Ho seruo <am>q</am><ex>que</ex> sabe a võtade de seu senhor e
-               a nõ faz : seera ferido <am>p</am><ex>per</ex> mujtas chagas .</ab>
+            <ab><hi rend="red">¶</hi> <q>Ho seruo <am>q</am><ex>que</ex> sabe a võtade de seu senhor e
+               a nõ faz : seera ferido <am>p</am><ex>per</ex> mujtas chagas .</q></ab>
 
             <ab><hi rend="red">¶</hi> E de mais diz sam paullo ẽ outro lugar .</ab>
 
@@ -136,15 +142,15 @@
                   a<am>u</am><ex>uer</ex>mos de fazer .</ab>
 
             <ab><hi rend="red">¶</hi> E porque segũdo diz ho <am>aplo</am><ex>apostolo</ex>
-               <am>sci</am><ex>sancti</ex>ago . se algũu s<am>g</am><ex>gua</ex>dar ẽ na ley da
+               <am>sci</am><ex>sancti</ex>ago . <q>se algũu s<am>g</am><ex>gua</ex>dar ẽ na ley da
                liberdade <am>p</am><ex>per</ex>feyto . E esti<am>u</am><ex>uer</ex> firme ẽ ella . e
                nom for feyto ouujdor esquecjdo . mays feytor de obra : este tal
-                  <am>s</am><ex>ser</ex>a beẽto ẽ se<am>9</am><ex>us</ex> feytos e
+                  <am>s</am><ex>ser</ex>a beẽto ẽ se<am>9</am><ex>us</ex> feytos</q> e
                   con<am>pi</am><ex>pri</ex>r se a ẽ elle o <am>q</am><ex>que</ex> he scripto ẽ no
                euãgelho que diz .</ab>
 
-            <ab><hi rend="red">¶</hi> Beẽtos som aquelles <am>q</am><ex>que</ex> ouuẽ a palaura de
-                  <am>ds</am><ex>deus</ex> : e a guardam .</ab>
+            <ab><hi rend="red">¶</hi> <q>Beẽtos som aquelles <am>q</am><ex>que</ex> ouuẽ a palaura de
+                  <am>ds</am><ex>deus</ex> : e a guardam .</q></ab>
 
             <ab><hi rend="red">¶</hi> E por esta rrazõ homjldosamẽte sguardemos aquestas cousas
                   <am>q</am><ex>que</ex> som ẽcomẽdadas a nos outros <am>q</am><ex>que</ex> no
@@ -158,7 +164,7 @@
 
             <ab><hi rend="dropcap">Q</hi>ue <am>qr</am><ex>quer</ex> dizer .</ab>
 
-            <ab>¶ Primeyramente por<am>q</am><ex>que</ex> sodes ajũtado ẽ hũa conpanha ; comuẽ uos
+            <ab>¶ Primeyramente por<am>q</am><ex>que</ex> sodes ajũtado[s] ẽ hũa conpanha ; comuẽ uos
                que todos ajades hũa vontade ẽ vosso lugar : E que todos sejades de hũa
                   al<am>m</am><ex>ma</ex> e de huũ coracom .</ab>
 
